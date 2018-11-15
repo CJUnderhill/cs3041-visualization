@@ -1,6 +1,6 @@
 {
     "title": {
-        "text": "Total Worth of Billionaires by Region",
+        "text": "Wealth Ranking of Billionaires by Age (2014)",
         "fontSize": 24
     },
     "width": 1000,
@@ -44,17 +44,6 @@
                     20,
                     100
                 ]
-            }
-        },
-        "color": {
-            "axis": {
-                "title": "Type of Wealth",
-                "titleFontSize": 16
-            },
-            "field": "type",
-            "type": "ordinal",
-            "scale": {
-                "scheme": "set1"
             }
         }
     }
