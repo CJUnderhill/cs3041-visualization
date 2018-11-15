@@ -4,7 +4,7 @@
         "fontSize": 24
     },
     "width": 1250,
-    "height": 300,
+    "height": 450,
     "data": {
         "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/billionaires.csv"
     },
