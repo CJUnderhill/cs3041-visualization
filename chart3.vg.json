@@ -19,36 +19,43 @@
             "filter": "datum.year == 2014"
         }
     ],
-    "layer": [
-        {
-            "mark": {
-                "type": "circle",
-                "size": 30
+    "mark": {
+        "type": "circle",
+        "size": 30
+    },
+    "encoding": {
+        "x": {
+            "axis": {
+                "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
+                "titleFontSize": 16
             },
-            "encoding": {
-                "x": {
-                    "axis": {
-                        "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
-                        "titleFontSize": 16
-                    },
-                    "field": "rank",
-                    "type": "quantitative"
-                },
-                "y": {
-                    "axis": {
-                        "title": "Age of Individual",
-                        "titleFontSize": 16
-                    },
-                    "field": "age",
-                    "type": "quantitative",
-                    "scale": {
-                        "domain": [
-                            20,
-                            100
-                        ]
-                    }
-                }
+            "field": "rank",
+            "type": "quantitative"
+        },
+        "y": {
+            "axis": {
+                "title": "Age of Individual",
+                "titleFontSize": 16
+            },
+            "field": "age",
+            "type": "quantitative",
+            "scale": {
+                "domain": [
+                    20,
+                    100
+                ]
+            }
+        },
+        "color": {
+            "axis": {
+                "title": "Type of Wealth",
+                "titleFontSize": 16
+            },
+            "field": "type",
+            "type": "ordinal",
+            "scale": {
+                "scheme": "set1"
             }
         }
-    ]
+    }
 }
