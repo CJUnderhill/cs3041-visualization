@@ -1,4 +1,10 @@
 {
+    "title": {
+        "text": "Total Worth of Billionaires by Region",
+        "fontSize": 24
+    },
+    "width": 1000,
+    "height": 500,
     "data": {
         "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/billionaires.csv"
     },
@@ -18,10 +24,12 @@
             "mark": "point",
             "encoding": {
                 "x": {
+                    "title": "Rank of Individual's Wealth (Among Billionaires)",
                     "field": "rank",
                     "type": "quantitative"
                 },
                 "y": {
+                    "title": "Age of Individual",
                     "field": "age",
                     "type": "quantitative",
                     "scale": {

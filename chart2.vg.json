@@ -40,22 +40,7 @@
                     "scale": {
                         "scheme": "set1"
                     }
-                },
-                "tooltip": [
-                    {
-                        "field": "region",
-                        "type": "nominal"
-                    },
-                    {
-                        "aggregate": "sum",
-                        "field": "worth in billions",
-                        "type": "quantitative"
-                    },
-                    {
-                        "field": "type",
-                        "type": "ordinal"
-                    }
-                ]
+                }
             }
         }
     ]
