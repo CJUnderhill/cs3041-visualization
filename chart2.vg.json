@@ -1,6 +1,6 @@
 {
     "title": {
-        "text": "Average Worth of Billionaires by Region",
+        "text": "Total Worth of Billionaires by Region",
         "fontSize": 12
     },
     "width": 500,
@@ -18,7 +18,9 @@
     ],
     "layer": [
         {
-            "mark": {"type": "bar"},
+            "mark": {
+                "type": "bar"
+            },
             "encoding": {
                 "x": {
                     "title": "Region of Residence",
@@ -26,18 +28,36 @@
                     "type": "nominal"
                 },
                 "y": {
-                    "title": "Average Worth of Billionaire (Billion USD)",
+                    "title": "Total Worth of Billionaire (Billion USD)",
                     "aggregate": "sum",
                     "field": "worth in billions",
                     "type": "quantitative"
                 },
                 "color": {
-                  "field": "type",
-                  "type": "ordinal",
-                  "scale": {
-                      "scheme": "set1"
-                  }
-                }
+                    "field": "type",
+                    "type": "ordinal",
+                    "scale": {
+                        "scheme": "set1"
+                    }
+                },
+                "tooltip": [
+                    {
+                        "title": "Region of Residence",
+                        "field": "region",
+                        "type": "nominal"
+                    },
+                    {
+                        "title": "Total Worth of Billionaire (Billion USD)",
+                        "aggregate": "sum",
+                        "field": "worth in billions",
+                        "type": "quantitative"
+                    },
+                    {
+                        "title": "Type of Wealth",
+                        "field": "type",
+                        "type": "ordinal"
+                    }
+                ]
             }
         }
     ]
