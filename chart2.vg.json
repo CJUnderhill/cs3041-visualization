@@ -3,7 +3,7 @@
         "text": "Total Worth of Billionaires by Region",
         "fontSize": 24
     },
-    "width": 500,
+    "width": 750,
     "height": 500,
     "data": {
         "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/billionaires.csv"

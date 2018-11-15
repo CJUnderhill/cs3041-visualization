@@ -4,7 +4,7 @@
         "fontSize": 24
     },
     "width": 750,
-    "height": 750,
+    "height": 500,
     "data": {
         "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/billionaires.csv"
     },
@@ -27,7 +27,12 @@
                 "titleFontSize": 16
             },
             "field": "rank",
-            "type": "quantitative"
+            "type": "quantitative",
+            "scale": {
+                "domain": [
+                    0,
+                    200
+                ]
         },
         "y": {
             "axis": {
