@@ -23,18 +23,27 @@
             },
             "encoding": {
                 "x": {
-                    "title": "Region of Residence",
+                    "title": {
+                        "text": "Region of Residence",
+                        "fontSize": 16
+                    },
                     "field": "region",
                     "type": "nominal"
                 },
                 "y": {
-                    "title": "Total Worth of Billionaire (Billion USD)",
+                    "title": {
+                        "text": "Total Worth of Billionaire (Billion USD)",
+                        "fontSize": 16
+                    },
                     "aggregate": "sum",
                     "field": "worth in billions",
                     "type": "quantitative"
                 },
                 "color": {
-                    "title": "Type of Wealth",
+                    "title": {
+                        "text": "Type of Wealth",
+                        "fontSize": 16
+                    },
                     "field": "type",
                     "type": "ordinal",
                     "scale": {

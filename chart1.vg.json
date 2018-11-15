@@ -1,7 +1,7 @@
 {
     "title": {
         "text": "Individual Worth by Year Benefactor-Company was Founded",
-        "fontSize": 12
+        "fontSize": 24
     },
     "width": 1000,
     "height": 650,
@@ -31,12 +31,18 @@
     },
     "encoding": {
         "x": {
-            "title": "Worth of Individual (Billions USD)",
+            "title": {
+                "text": "Worth of Individual (Billions USD)",
+                "fontSize": 16
+            },
             "field": "worth in billions",
             "type": "quantitative"
         },
         "y": {
-            "title": "Year Benefactor-Company was Founded",
+            "title": {
+                "text": "Year Benefactor-Company was Founded",
+                "fontSize": 16
+            },
             "field": "founded",
             "type": "quantitative",
             "scale": {
