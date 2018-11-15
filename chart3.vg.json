@@ -47,6 +47,7 @@
                     "type": "quantitative"
                 },
                 "y": {
+                    "bin": true,
                     "aggregate": "mean",
                     "field": "age",
                     "type": "quantitative",
