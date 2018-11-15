@@ -37,7 +37,7 @@
                 "y": {
                     "axis": {
                         "title": "Age of Individual",
-                        "titleFontSize":
+                        "titleFontSize": 16
                     },
                     "field": "age",
                     "type": "quantitative",
