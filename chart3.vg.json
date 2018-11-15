@@ -21,30 +21,13 @@
     ],
     "layer": [
         {
-            "mark": "point",
+            "mark": {
+                "type": "circle",
+                "size": 30
+            },
             "encoding": {
                 "x": {
                     "field": "rank",
-                    "type": "quantitative"
-                },
-                "y": {
-                    "field": "age",
-                    "type": "quantitative",
-                    "scale": {
-                        "domain": [
-                            20,
-                            100
-                        ]
-                    }
-                }
-            }
-        }, 
-        {
-            "mark": "circle",
-            "encoding": {
-                "x": {
-                    "field": "rank",
-                    "aggregate": "mean",
                     "type": "quantitative"
                 },
                 "y": {
