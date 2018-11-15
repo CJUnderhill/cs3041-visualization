@@ -19,7 +19,7 @@
             "filter": "datum.year == 2014"
         }
     ],
-    "mark": "bar",
+    "mark": "line",
     "encoding": {
         "x": {
             "axis": {
