@@ -32,7 +32,7 @@
     "encoding": {
         "x": {
             "axis": {
-                "title": "Year Benefactor-Company was Founded",
+                "title": "Year Source of Wealth was Founded",
                 "titleFontSize": 16
             },
             "field": "founded",
