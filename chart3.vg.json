@@ -40,15 +40,14 @@
             }
         }, 
         {
-            "mark": "line",
+            "mark": "circle",
             "encoding": {
                 "x": {
                     "field": "rank",
+                    "aggregate": "mean",
                     "type": "quantitative"
                 },
                 "y": {
-                    "bin": true,
-                    "aggregate": "mean",
                     "field": "age",
                     "type": "quantitative",
                     "scale": {
