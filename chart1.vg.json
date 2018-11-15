@@ -3,8 +3,8 @@
         "text": "Individual Worth by Year Benefactor-Company was Founded (2014)",
         "fontSize": 24
     },
-    "width": 1000,
-    "height": 650,
+    "width": 1250,
+    "height": 300,
     "data": {
         "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/billionaires.csv"
     },
