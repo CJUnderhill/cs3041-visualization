@@ -27,14 +27,18 @@
             },
             "encoding": {
                 "x": {
-                    "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
-                    "titleFontSize": 16,
+                    "axis": {
+                        "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
+                        "titleFontSize": 16
+                    },
                     "field": "rank",
                     "type": "quantitative"
                 },
                 "y": {
-                    "title": "Age of Individual",
-                    "titleFontSize": 16,
+                    "axis": {
+                        "title": "Age of Individual",
+                        "titleFontSize":
+                    },
                     "field": "age",
                     "type": "quantitative",
                     "scale": {

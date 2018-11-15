@@ -22,14 +22,18 @@
     "mark": "area",
     "encoding": {
         "x": {
-            "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
-            "titleFontSize": 16,
+            "axis": {
+                "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
+                "titleFontSize": 16
+            },
             "field": "rank",
             "type": "quantitative"
         },
         "y": {
-            "title": "Wealth of Individual (Billion USD)",
-            "titleFontSize": 16,
+            "axis": {
+                "title": "Wealth of Individual (Billion USD)",
+                "titleFontSize": 16
+            },
             "field": "worth in billions",
             "type": "quantitative"
         }
