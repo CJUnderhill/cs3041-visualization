@@ -1,0 +1,37 @@
+{
+    "data": {
+        "url": "data/billionaires.csv"
+    },
+    "transform": [
+        {
+            "filter": "datum.age > 0"
+        },
+        {
+            "filter": "datum.rank > 0"
+        },
+        {
+            "filter": "datum.year == 2014"
+        }
+    ],
+    "layer": [
+        {
+            "mark": "point",
+            "encoding": {
+                "x": {
+                    "field": "rank",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "age",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            20,
+                            100
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

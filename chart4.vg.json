@@ -1,0 +1,31 @@
+{
+    "data": {
+        "url": "data/billionaires.csv"
+    },
+    "transform": [
+        {
+            "filter": "datum.rank > 0"
+        },
+        {
+            "filter": "datum.rank < 201"
+        },
+        {
+            "filter": "datum.year == 2014"
+        }
+    ],
+    "layer": [
+        {
+            "mark": "area",
+            "encoding": {
+                "x": {
+                    "field": "rank",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "worth in billions",
+                    "type": "quantitative"
+                }
+            }
+        }
+    ]
+}

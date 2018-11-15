@@ -1,0 +1,10 @@
+{
+  "data": {
+    "url": "data/billionaires.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "country code", "type": "ordinal"},
+    "y": {"aggregate": "mean", "field": "worth in billions", "type": "quantitative"}
+  }
+}

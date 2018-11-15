@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Import Vega 4 & Vega-Lite 3 (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.0.0-rc8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+</head>
+
+<body>
+
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+        var spec = 'chart1.vg.json';
+        vegaEmbed('#vis', spec).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+</body>
+
+</html>

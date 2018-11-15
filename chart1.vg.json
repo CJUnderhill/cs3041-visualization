@@ -1,0 +1,58 @@
+{
+    "title": {
+        "text": "Individual Worth by Year Benefactor-Company was Founded",
+        "fontSize": 12
+    },
+    "width": 1000,
+    "height": 650,
+    "data": {
+        "url": "data/billionaires.csv"
+    },
+    "transform": [
+        {
+            "filter": "datum.founded > 0"
+        },
+        {
+            "filter": "datum.year == 2014"
+        },
+        {
+            "filter": "datum.type != ''"
+        },
+        {
+            "filter": "datum.founded > 1900"
+        },
+        {
+            "filter": "datum.founded < 2010"
+        }
+    ],
+    "mark": {
+        "type": "circle",
+        "size": 30
+    },
+    "encoding": {
+        "x": {
+            "title": "Worth of Individual (Billions USD)",
+            "field": "worth in billions",
+            "type": "quantitative"
+        },
+        "y": {
+            "title": "Year Benefactor-Company was Founded",
+            "field": "founded",
+            "type": "quantitative",
+            "scale": {
+                "domain": [
+                    1900,
+                    2010
+                ]
+            }
+        },
+        "color": {
+            "title": "Source of Individual's Wealth",
+            "field": "type",
+            "type": "ordinal",
+            "scale": {
+                "scheme": "set1"
+            }
+        }
+    }
+}

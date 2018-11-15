@@ -1,0 +1,44 @@
+{
+    "title": {
+        "text": "Average Worth of Billionaires by Region",
+        "fontSize": 12
+    },
+    "width": 500,
+    "height": 500,
+    "data": {
+        "url": "data/billionaires.csv"
+    },
+    "transform": [
+        {
+            "filter": "datum.year == 2014"
+        },
+        {
+            "filter": "datum.type != ''"
+        }
+    ],
+    "layer": [
+        {
+            "mark": {"type": "bar", "tooltip": {"content": "data"}},
+            "encoding": {
+                "x": {
+                    "title": "Region of Residence",
+                    "field": "region",
+                    "type": "nominal"
+                },
+                "y": {
+                    "title": "Average Worth of Billionaire (Billion USD)",
+                    "aggregate": "sum",
+                    "field": "worth in billions",
+                    "type": "quantitative"
+                },
+                "color": {
+                  "field": "type",
+                  "type": "ordinal",
+                  "scale": {
+                      "scheme": "set1"
+                  }
+                }
+            }
+        }
+    ]
+}
