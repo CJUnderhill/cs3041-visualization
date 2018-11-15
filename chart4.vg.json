@@ -19,7 +19,7 @@
             "filter": "datum.year == 2014"
         }
     ],
-    "mark": "area",
+    "mark": "trail",
     "encoding": {
         "x": {
             "axis": {
