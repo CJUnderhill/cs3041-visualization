@@ -43,18 +43,15 @@
                 },
                 "tooltip": [
                     {
-                        "title": "Region of Residence",
                         "field": "region",
                         "type": "nominal"
                     },
                     {
-                        "title": "Total Worth of Billionaire (Billion USD)",
                         "aggregate": "sum",
                         "field": "worth in billions",
                         "type": "quantitative"
                     },
                     {
-                        "title": "Type of Wealth",
                         "field": "type",
                         "type": "ordinal"
                     }
