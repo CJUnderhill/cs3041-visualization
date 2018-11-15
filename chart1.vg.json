@@ -56,7 +56,6 @@
         },
         "tooltip": [
             {
-                "title": "Region of Residence",
                 "field": "region",
                 "type": "nominal"
             }
