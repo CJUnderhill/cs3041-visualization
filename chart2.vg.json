@@ -18,7 +18,7 @@
     ],
     "layer": [
         {
-            "mark": {"type": "bar", "tooltip": {"content": "data"}},
+            "mark": {"type": "bar"},
             "encoding": {
                 "x": {
                     "title": "Region of Residence",
