@@ -23,27 +23,21 @@
             },
             "encoding": {
                 "x": {
-                    "title": {
-                        "text": "Region of Residence",
-                        "fontSize": 16
-                    },
+                    "title": "Region of Residence",
+                    "titleFontSize": 16,
                     "field": "region",
                     "type": "nominal"
                 },
                 "y": {
-                    "title": {
-                        "text": "Total Worth of Billionaire (Billion USD)",
-                        "fontSize": 16
-                    },
+                    "title": "Total Worth of Billionaire (Billion USD)",
+                    "titleFontSize": 16,
                     "aggregate": "sum",
                     "field": "worth in billions",
                     "type": "quantitative"
                 },
                 "color": {
-                    "title": {
-                        "text": "Type of Wealth",
-                        "fontSize": 16
-                    },
+                    "title": "Type of Wealth",
+                    "titleFontSize": 16,
                     "field": "type",
                     "type": "ordinal",
                     "scale": {

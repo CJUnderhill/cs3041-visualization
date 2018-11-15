@@ -31,18 +31,14 @@
     },
     "encoding": {
         "x": {
-            "title": {
-                "text": "Worth of Individual (Billions USD)",
-                "fontSize": 16
-            },
+            "title": "Worth of Individual (Billions USD)",
+            "titleFontSize": 16,
             "field": "worth in billions",
             "type": "quantitative"
         },
         "y": {
-            "title": {
-                "text": "Year Benefactor-Company was Founded",
-                "fontSize": 16
-            },
+            "title": "Year Benefactor-Company was Founded",
+            "titleFontSize": 16,
             "field": "founded",
             "type": "quantitative",
             "scale": {
@@ -54,6 +50,7 @@
         },
         "color": {
             "title": "Source of Individual's Wealth",
+            "titleFontSize": 16,
             "field": "type",
             "type": "ordinal",
             "scale": {

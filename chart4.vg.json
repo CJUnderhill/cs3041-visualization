@@ -19,27 +19,19 @@
             "filter": "datum.year == 2014"
         }
     ],
-    "layer": [
-        {
-            "mark": "area",
-            "encoding": {
-                "x": {
-                    "title": {
-                        "text": "Rank of Individual's Wealth (Compared to Other Billionaires)",
-                        "fontSize": 16
-                    },
-                    "field": "rank",
-                    "type": "quantitative"
-                },
-                "y": {
-                    "title": {
-                        "text": "Wealth of Individual (Billion USD)",
-                        "fontSize": 16
-                    },
-                    "field": "worth in billions",
-                    "type": "quantitative"
-                }
-            }
+    "mark": "area",
+    "encoding": {
+        "x": {
+            "title": "Rank of Individual's Wealth (Compared to Other Billionaires)",
+            "titleFontSize": 16,
+            "field": "rank",
+            "type": "quantitative"
+        },
+        "y": {
+            "title": "Wealth of Individual (Billion USD)",
+            "titleFontSize": 16,
+            "field": "worth in billions",
+            "type": "quantitative"
         }
-    ]
+    }
 }
