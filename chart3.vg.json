@@ -40,6 +40,26 @@
                     }
                 }
             }
+        }, 
+        {
+            "mark": "line",
+            "encoding": {
+                "x": {
+                    "field": "rank",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "aggregate": "mean",
+                    "field": "age",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            20,
+                            100
+                        ]
+                    }
+                }
+            }
         }
     ]
 }
