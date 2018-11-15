@@ -10,11 +10,26 @@
 
 <body>
 
-    <div id="vis"></div>
+    <div id="vis4"></div>
+    <div id="vis3"></div>
+    <div id="vis2"></div>
+    <div id="vis1"></div>
 
     <script type="text/javascript">
-        var spec = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart1.vg.json';
-        vegaEmbed('#vis', spec).then(function (result) {
+        var spec1 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart1.vg.json';
+        var spec1 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart2.vg.json';
+        var spec1 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart3.vg.json';
+        var spec1 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart4.vg.json';
+        vegaEmbed('#vis1', spec).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+        vegaEmbed('#vis2', spec).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+        vegaEmbed('#vis3', spec).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+        vegaEmbed('#vis4', spec).then(function (result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
     </script>

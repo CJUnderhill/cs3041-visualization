@@ -6,7 +6,7 @@
     "width": 500,
     "height": 500,
     "data": {
-        "url": "data/billionaires.csv"
+        "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/billionaires.csv"
     },
     "transform": [
         {
