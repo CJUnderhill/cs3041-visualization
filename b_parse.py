@@ -3,7 +3,7 @@ import operator
 import json
 
 rank = {}
-data = {}
+data = []
 
 cat = {}
 gen = {}
@@ -133,78 +133,123 @@ def main():
     for i in sorted_d:
         print cat[i], i
 
-    data['name'] = 'Billionaires'
-    data['children'] = []
+    node_id = 1
+    temp_data = {}
+    temp_data['name'] = 'Billionaires'
+    temp_data['id'] = node_id
+    data.append(temp_data)
 
+    node_id += 1
     category = {}
     category['name'] = 'Category'
-    category['children'] = []
+    category['id'] = node_id
+    category['parent'] = 1
+    data.append(category)
+
     for key, value in cat.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            category['children'].append(temp)
-    data['children'].append(category)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = category['id']
+            data.append(temp)
 
+    node_id += 1
     gender = {}
     gender['name'] = 'Gender'
-    gender['children'] = []
+    gender['id'] = node_id
+    gender['parent'] = 1
+    data.append(gender)
+
     for key, value in gen.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            gender['children'].append(temp)
-    data['children'].append(gender)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = gender['id']
+            data.append(temp)
 
+    node_id += 1
     industry = {}
     industry['name'] = 'Industry'
-    industry['children'] = []
+    industry['id'] = node_id
+    industry['parent'] = 1
+    data.append(gender)
+
     for key, value in ind.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            industry['children'].append(temp)
-    data['children'].append(industry)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = industry['id']
+            data.append(temp)
 
+    node_id += 1
     region = {}
     region['name'] = 'Region'
-    region['children'] = []
+    region['id'] = node_id
+    region['parent'] = 1
+    data.append(region)
+
     for key, value in reg.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            region['children'].append(temp)
-    data['children'].append(region)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = region['id']
+            data.append(temp)
 
+    node_id += 1
     sector = {}
     sector['name'] = 'Sector'
-    sector['children'] = []
+    sector['id'] = node_id
+    sector['parent'] = 1
+    data.append(sector)
+
     for key, value in sec.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            sector['children'].append(temp)
-    data['children'].append(sector)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = sector['id']
+            data.append(temp)
 
+    node_id += 1
     political = {}
     political['name'] = 'Was Political?'
-    political['children'] = []
+    political['id'] = node_id
+    political['parent'] = 1
+    data.append(political)
+
     for key, value in pol.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            political['children'].append(temp)
-    data['children'].append(political)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = political['id']
+            data.append(temp)
 
+    node_id += 1
     ty = {}
     ty['name'] = 'Type'
-    ty['children'] = []
+    ty['id'] = node_id
+    ty['parent'] = 1
+    data.append(ty)
+
     for key, value in typ.items():
         if(key != '' and key != '1' and key != '0'):
+            node_id += 1
             temp = {}
-            temp['name'] = str(value) + ' ' + str(key)
-            ty['children'].append(temp)
-    data['children'].append(ty)
+            temp['name'] = str(value) + ' - ' + str(key)
+            temp['id'] = node_id
+            temp['parent'] = ty['id']
+            data.append(temp)
 
     with open('data.json', 'w') as fp:
         json.dump(data, fp, sort_keys=False, indent=4)
