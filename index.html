@@ -10,6 +10,7 @@
 
 <body>
 
+    <h1>Clear Communication Visualizations</h1>
     <div id="vis4"></div>
     <br />
     <hr />
@@ -23,12 +24,18 @@
     <hr />
     <br />
     <div id="vis1"></div>
+    <br />
+    <hr />
+    <br />
+    <h1>Clear Communication Visualizations</h1>
+    <div id="vis5"></div>
 
     <script type="text/javascript">
         var spec1 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart1.vg.json';
         var spec2 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart2.vg.json';
         var spec3 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart3.vg.json';
         var spec4 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/chart4.vg.json';
+        var spec5 = 'https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/radialtree.vg.json';
         vegaEmbed('#vis1', spec1).then(function (result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
@@ -39,6 +46,9 @@
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
         vegaEmbed('#vis4', spec4).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+        vegaEmbed('#vis5', spec5).then(function (result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
     </script>
