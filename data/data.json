@@ -1,1531 +1,2526 @@
-{
-    "name": "Billionaires", 
-    "children": [
-        {
-            "name": "Category", 
-            "children": [
-                {
-                    "name": "360 Traded Sectors"
-                }, 
-                {
-                    "name": "209 New Sectors"
-                }, 
-                {
-                    "name": "1 energy"
-                }, 
-                {
-                    "name": "339 Non-Traded Sectors"
-                }, 
-                {
-                    "name": "512 Financial"
-                }, 
-                {
-                    "name": "177 Resource Related"
-                }
-            ]
-        }, 
-        {
-            "name": "Gender", 
-            "children": [
-                {
-                    "name": "1473 male"
-                }, 
-                {
-                    "name": "180 female"
-                }
-            ]
-        }, 
-        {
-            "name": "Industry", 
-            "children": [
-                {
-                    "name": "5 Venture Capital"
-                }, 
-                {
-                    "name": "131 Technology-Computer"
-                }, 
-                {
-                    "name": "43 Hedge funds"
-                }, 
-                {
-                    "name": "104 Media"
-                }, 
-                {
-                    "name": "87 Energy"
-                }, 
-                {
-                    "name": "122 Money Management"
-                }, 
-                {
-                    "name": "78 Technology-Medical"
-                }, 
-                {
-                    "name": "68 Mining and metals"
-                }, 
-                {
-                    "name": "83 Non-consumer industrial"
-                }, 
-                {
-                    "name": "59 Other"
-                }, 
-                {
-                    "name": "174 Retail, Restaurant"
-                }, 
-                {
-                    "name": "190 Real Estate"
-                }, 
-                {
-                    "name": "132 Diversified financial"
-                }, 
-                {
-                    "name": "18 Private equity/leveraged buyout"
-                }, 
-                {
-                    "name": "291 Consumer"
-                }, 
-                {
-                    "name": "61 Constrution"
-                }
-            ]
-        }, 
-        {
-            "name": "Region", 
-            "children": [
-                {
-                    "name": "470 Europe"
-                }, 
-                {
-                    "name": "351 East Asia"
-                }, 
-                {
-                    "name": "562 North America"
-                }, 
-                {
-                    "name": "16 Sub-Saharan Africa"
-                }, 
-                {
-                    "name": "62 South Asia"
-                }, 
-                {
-                    "name": "78 Middle East/North Africa"
-                }, 
-                {
-                    "name": "114 Latin America"
-                }
-            ]
-        }, 
-        {
-            "name": "Sector", 
-            "children": [
-                {
-                    "name": "1 nutrition supplements"
-                }, 
-                {
-                    "name": "2 kitchen appliances"
-                }, 
-                {
-                    "name": "2 aluminum, oil"
-                }, 
-                {
-                    "name": "44 hedge funds"
-                }, 
-                {
-                    "name": "2 staffing company"
-                }, 
-                {
-                    "name": "2 iron ore"
-                }, 
-                {
-                    "name": "20 groceries"
-                }, 
-                {
-                    "name": "1 telecom, oil, beer"
-                }, 
-                {
-                    "name": "3 construction,banking"
-                }, 
-                {
-                    "name": "2 milk"
-                }, 
-                {
-                    "name": "1 real estate, financial services and computers"
-                }, 
-                {
-                    "name": "1 gas, petrochemicals"
-                }, 
-                {
-                    "name": "1 property development"
-                }, 
-                {
-                    "name": "1 electricity"
-                }, 
-                {
-                    "name": "8 natural gas"
-                }, 
-                {
-                    "name": "1 sports retail"
-                }, 
-                {
-                    "name": "1 bicycles"
-                }, 
-                {
-                    "name": "3 dairy"
-                }, 
-                {
-                    "name": "1 information services"
-                }, 
-                {
-                    "name": "1 locomotive manufacturing"
-                }, 
-                {
-                    "name": "1 mail order retail"
-                }, 
-                {
-                    "name": "1 automotive"
-                }, 
-                {
-                    "name": "1 real estate/banking"
-                }, 
-                {
-                    "name": "1 electronic componants"
-                }, 
-                {
-                    "name": "6 food processing/commodities"
-                }, 
-                {
-                    "name": "11 automobiles"
-                }, 
-                {
-                    "name": "1 commodities trading"
-                }, 
-                {
-                    "name": "1 manufacturing (agriculture, steel, electronics)"
-                }, 
-                {
-                    "name": "1 oil and natural gas"
-                }, 
-                {
-                    "name": "1 cable"
-                }, 
-                {
-                    "name": "2 medical technology"
-                }, 
-                {
-                    "name": "1 mining, steel"
-                }, 
-                {
-                    "name": "1 gum"
-                }, 
-                {
-                    "name": "1 healthcare IT"
-                }, 
-                {
-                    "name": "7 casinos"
-                }, 
-                {
-                    "name": "11 financial services"
-                }, 
-                {
-                    "name": "122 real estate"
-                }, 
-                {
-                    "name": "1 logistics"
-                }, 
-                {
-                    "name": "1 home furnishings"
-                }, 
-                {
-                    "name": "1 tires"
-                }, 
-                {
-                    "name": "1 food, entertainment"
-                }, 
-                {
-                    "name": "2 port"
-                }, 
-                {
-                    "name": "1 food manufacturing"
-                }, 
-                {
-                    "name": "4 soup"
-                }, 
-                {
-                    "name": "3 home improvement retail"
-                }, 
-                {
-                    "name": "1 pipes"
-                }, 
-                {
-                    "name": "1 technology publishing"
-                }, 
-                {
-                    "name": "1 snack foods"
-                }, 
-                {
-                    "name": "1 copper, poultry"
-                }, 
-                {
-                    "name": "1 toll roads"
-                }, 
-                {
-                    "name": "1 lumber"
-                }, 
-                {
-                    "name": "1 copper/mining"
-                }, 
-                {
-                    "name": "1 racing"
-                }, 
-                {
-                    "name": "1 sugar, flour, cement"
-                }, 
-                {
-                    "name": "2 transportation"
-                }, 
-                {
-                    "name": "2 automotive parts"
-                }, 
-                {
-                    "name": "4 makeup"
-                }, 
-                {
-                    "name": "3 diapers"
-                }, 
-                {
-                    "name": "1 watch retail"
-                }, 
-                {
-                    "name": "8 coal"
-                }, 
-                {
-                    "name": "1 ethanol"
-                }, 
-                {
-                    "name": "1 web broadcasting"
-                }, 
-                {
-                    "name": "1 elevators, escalators, engineering"
-                }, 
-                {
-                    "name": "1 hair care"
-                }, 
-                {
-                    "name": "1 power engineering"
-                }, 
-                {
-                    "name": "2 airport"
-                }, 
-                {
-                    "name": "4 food packaging"
-                }, 
-                {
-                    "name": "5 advertising"
-                }, 
-                {
-                    "name": "2 hospitality"
-                }, 
-                {
-                    "name": "1 frozen foods"
-                }, 
-                {
-                    "name": "3 cell phones"
-                }, 
-                {
-                    "name": "3 semiconductors"
-                }, 
-                {
-                    "name": "1 hair care products/tequila"
-                }, 
-                {
-                    "name": "1 food retail"
-                }, 
-                {
-                    "name": "1  Oil refining"
-                }, 
-                {
-                    "name": "1 appliances"
-                }, 
-                {
-                    "name": "6 toys"
-                }, 
-                {
-                    "name": "17 hotels"
-                }, 
-                {
-                    "name": "1 ports, gas"
-                }, 
-                {
-                    "name": "1 textiles, industrial goods, media"
-                }, 
-                {
-                    "name": "1 chocolates"
-                }, 
-                {
-                    "name": "1 petroleum"
-                }, 
-                {
-                    "name": "4 auto retail"
-                }, 
-                {
-                    "name": "1 sports"
-                }, 
-                {
-                    "name": "1 bridge to canada"
-                }, 
-                {
-                    "name": "1 risk management"
-                }, 
-                {
-                    "name": "1 music"
-                }, 
-                {
-                    "name": "1 industrial manufacturing and banking"
-                }, 
-                {
-                    "name": "1 linear actuators"
-                }, 
-                {
-                    "name": "1  Software"
-                }, 
-                {
-                    "name": "2 roller bearings"
-                }, 
-                {
-                    "name": "4 Banking"
-                }, 
-                {
-                    "name": "2 electonics components"
-                }, 
-                {
-                    "name": "2 data processing"
-                }, 
-                {
-                    "name": "1 antennas"
-                }, 
-                {
-                    "name": "1 education, language schools"
-                }, 
-                {
-                    "name": "1 construction, hotels, gaming"
-                }, 
-                {
-                    "name": "1 video technology"
-                }, 
-                {
-                    "name": "1 video games"
-                }, 
-                {
-                    "name": "1 port logistics"
-                }, 
-                {
-                    "name": "1 laundry soap"
-                }, 
-                {
-                    "name": "2 movies"
-                }, 
-                {
-                    "name": "1 printing"
-                }, 
-                {
-                    "name": "1 consumer retail"
-                }, 
-                {
-                    "name": "3 investment banking/beer"
-                }, 
-                {
-                    "name": "2 agribusiness"
-                }, 
-                {
-                    "name": "1 payroll processing "
-                }, 
-                {
-                    "name": "1 diamond jewelry"
-                }, 
-                {
-                    "name": "1 restaurants"
-                }, 
-                {
-                    "name": "1 biotech investing"
-                }, 
-                {
-                    "name": "4 clothing "
-                }, 
-                {
-                    "name": "5 clothing"
-                }, 
-                {
-                    "name": "1 automotive components"
-                }, 
-                {
-                    "name": "20 technology"
-                }, 
-                {
-                    "name": "1 shoe retail"
-                }, 
-                {
-                    "name": "7 cleaning supplies"
-                }, 
-                {
-                    "name": "1 biopharmaceutical"
-                }, 
-                {
-                    "name": "1 banking and real estate"
-                }, 
-                {
-                    "name": "1 auto sales, energy"
-                }, 
-                {
-                    "name": "1 boats"
-                }, 
-                {
-                    "name": "1 banking, oil, aluminum"
-                }, 
-                {
-                    "name": "1 heating systems"
-                }, 
-                {
-                    "name": "5 gaming"
-                }, 
-                {
-                    "name": "1 meat products"
-                }, 
-                {
-                    "name": "1 trade fairs"
-                }, 
-                {
-                    "name": "1 timber, plantations"
-                }, 
-                {
-                    "name": "1 salsa"
-                }, 
-                {
-                    "name": "1 property, textile manufacturing"
-                }, 
-                {
-                    "name": "1 security equipment"
-                }, 
-                {
-                    "name": "1 mining, investments"
-                }, 
-                {
-                    "name": "1 credit cards"
-                }, 
-                {
-                    "name": "2 money management"
-                }, 
-                {
-                    "name": "2 supermarkets"
-                }, 
-                {
-                    "name": "1 cigarettes"
-                }, 
-                {
-                    "name": "1 broadcasting"
-                }, 
-                {
-                    "name": "1 healthcare"
-                }, 
-                {
-                    "name": "1 life insurance"
-                }, 
-                {
-                    "name": "2 mutual funds"
-                }, 
-                {
-                    "name": "3 banking, real estate"
-                }, 
-                {
-                    "name": "1 pet food"
-                }, 
-                {
-                    "name": "1 home building materials"
-                }, 
-                {
-                    "name": "5 shoes"
-                }, 
-                {
-                    "name": "1 wine and spirits"
-                }, 
-                {
-                    "name": "9 oil and gas"
-                }, 
-                {
-                    "name": "6 telecom"
-                }, 
-                {
-                    "name": "1 agriculteral"
-                }, 
-                {
-                    "name": "2  Finance"
-                }, 
-                {
-                    "name": "2 electonics"
-                }, 
-                {
-                    "name": "1 commodities"
-                }, 
-                {
-                    "name": "6 paper"
-                }, 
-                {
-                    "name": "9 petrochemicals"
-                }, 
-                {
-                    "name": "1 apparel and eyewear"
-                }, 
-                {
-                    "name": "1 tire manufacturing"
-                }, 
-                {
-                    "name": "1 commodities (sugar, cement flour)"
-                }, 
-                {
-                    "name": "1 medical equipment"
-                }, 
-                {
-                    "name": "1 stock brokerage"
-                }, 
-                {
-                    "name": "1 holding company"
-                }, 
-                {
-                    "name": "6 coffee"
-                }, 
-                {
-                    "name": "2 finance"
-                }, 
-                {
-                    "name": "4 food"
-                }, 
-                {
-                    "name": "23 private equity"
-                }, 
-                {
-                    "name": "7 consumer goods"
-                }, 
-                {
-                    "name": "1 real estate, retail"
-                }, 
-                {
-                    "name": "1 bank"
-                }, 
-                {
-                    "name": "1 gambling software"
-                }, 
-                {
-                    "name": "1 winter jackets"
-                }, 
-                {
-                    "name": "2 airports"
-                }, 
-                {
-                    "name": "4 tobacco"
-                }, 
-                {
-                    "name": "1 greeting cards"
-                }, 
-                {
-                    "name": "1 braking systems"
-                }, 
-                {
-                    "name": "1 iron and steel"
-                }, 
-                {
-                    "name": "2 glasses"
-                }, 
-                {
-                    "name": "1 food and energy processess"
-                }, 
-                {
-                    "name": "1 steel/oil"
-                }, 
-                {
-                    "name": "3 energy"
-                }, 
-                {
-                    "name": "1 trading"
-                }, 
-                {
-                    "name": "1 hardware stores"
-                }, 
-                {
-                    "name": "1 investments/real estate, sports teams"
-                }, 
-                {
-                    "name": "6 agriculture"
-                }, 
-                {
-                    "name": "14 insurance"
-                }, 
-                {
-                    "name": "2 alcohol"
-                }, 
-                {
-                    "name": "12 entertainment"
-                }, 
-                {
-                    "name": "7 internet company"
-                }, 
-                {
-                    "name": "1 cameras"
-                }, 
-                {
-                    "name": "11 internet"
-                }, 
-                {
-                    "name": "19 electronics"
-                }, 
-                {
-                    "name": "1 brewery"
-                }, 
-                {
-                    "name": "5 diversified investments"
-                }, 
-                {
-                    "name": "1 wrestling promotion"
-                }, 
-                {
-                    "name": "7 cars"
-                }, 
-                {
-                    "name": "6 metals, paper, cement"
-                }, 
-                {
-                    "name": "1 tractors"
-                }, 
-                {
-                    "name": "1 leveraged buyout"
-                }, 
-                {
-                    "name": "2 mutal funds"
-                }, 
-                {
-                    "name": "1 oleochemicals and palm oil"
-                }, 
-                {
-                    "name": "1 internet service provider"
-                }, 
-                {
-                    "name": "3 leveraged buyouts"
-                }, 
-                {
-                    "name": "1 truck stop"
-                }, 
-                {
-                    "name": "3  finance"
-                }, 
-                {
-                    "name": "1 microchips"
-                }, 
-                {
-                    "name": "2 footwear"
-                }, 
-                {
-                    "name": "1 oil/telecommunications"
-                }, 
-                {
-                    "name": "78 retail"
-                }, 
-                {
-                    "name": "1 industrial software"
-                }, 
-                {
-                    "name": "2 copper"
-                }, 
-                {
-                    "name": "1 plastics"
-                }, 
-                {
-                    "name": "1 hotels and supermarkets"
-                }, 
-                {
-                    "name": "14 investment banking"
-                }, 
-                {
-                    "name": "1 metals and mining"
-                }, 
-                {
-                    "name": "1 lawsuits"
-                }, 
-                {
-                    "name": "2 plastic"
-                }, 
-                {
-                    "name": "2 paint"
-                }, 
-                {
-                    "name": "1 petrochemicals, textiles"
-                }, 
-                {
-                    "name": "1 currency trading"
-                }, 
-                {
-                    "name": "1 wind energy"
-                }, 
-                {
-                    "name": "22 mining"
-                }, 
-                {
-                    "name": "1 pipelines"
-                }, 
-                {
-                    "name": "1 landscape architecture"
-                }, 
-                {
-                    "name": "7 chemicals"
-                }, 
-                {
-                    "name": "15 steel"
-                }, 
-                {
-                    "name": "1 solar energy"
-                }, 
-                {
-                    "name": "2 television"
-                }, 
-                {
-                    "name": "1 vacuum cleaners"
-                }, 
-                {
-                    "name": "1 finance "
-                }, 
-                {
-                    "name": "1 iron"
-                }, 
-                {
-                    "name": "16 fashion"
-                }, 
-                {
-                    "name": "2 oil exploration equipment"
-                }, 
-                {
-                    "name": "1 meat processing"
-                }, 
-                {
-                    "name": "1 food sweeteners"
-                }, 
-                {
-                    "name": "10 luxury goods"
-                }, 
-                {
-                    "name": "1 real estate and metals"
-                }, 
-                {
-                    "name": "1 screws"
-                }, 
-                {
-                    "name": "2 soft drinks"
-                }, 
-                {
-                    "name": "1 security and surveillance technology"
-                }, 
-                {
-                    "name": "1 business centers"
-                }, 
-                {
-                    "name": "3   Oil refining"
-                }, 
-                {
-                    "name": "9 e-commerce"
-                }, 
-                {
-                    "name": "1 cranes"
-                }, 
-                {
-                    "name": "1 heavy equiptment (excavators, backhoes and tractors)"
-                }, 
-                {
-                    "name": "7 investment"
-                }, 
-                {
-                    "name": "1 animation"
-                }, 
-                {
-                    "name": "1 sportswear"
-                }, 
-                {
-                    "name": "1 food processing"
-                }, 
-                {
-                    "name": "1 steel/banking"
-                }, 
-                {
-                    "name": "1 bottled water"
-                }, 
-                {
-                    "name": "1 express delivery services"
-                }, 
-                {
-                    "name": "1 beauty and health care products"
-                }, 
-                {
-                    "name": "1 dental implants"
-                }, 
-                {
-                    "name": "4 auto parts"
-                }, 
-                {
-                    "name": "1 natural flavors"
-                }, 
-                {
-                    "name": "1 industrial equipment"
-                }, 
-                {
-                    "name": "5 medical supplies"
-                }, 
-                {
-                    "name": "1 auto repair"
-                }, 
-                {
-                    "name": "1 air compressors"
-                }, 
-                {
-                    "name": "1 metals/banking"
-                }, 
-                {
-                    "name": "1 hostile takeovers"
-                }, 
-                {
-                    "name": "2 aigriculture"
-                }, 
-                {
-                    "name": "1 heavy equipment"
-                }, 
-                {
-                    "name": "1 relocation services"
-                }, 
-                {
-                    "name": "1 security "
-                }, 
-                {
-                    "name": "2 supply chain"
-                }, 
-                {
-                    "name": "2 cruises"
-                }, 
-                {
-                    "name": "1 social network"
-                }, 
-                {
-                    "name": "3 commodities (wheat, oil, shipping)"
-                }, 
-                {
-                    "name": "2  retail"
-                }, 
-                {
-                    "name": "2 food products"
-                }, 
-                {
-                    "name": "1 cleaning products"
-                }, 
-                {
-                    "name": "1 pet supplies, real estate"
-                }, 
-                {
-                    "name": "3 healthcare management"
-                }, 
-                {
-                    "name": "1 palm oil, mining"
-                }, 
-                {
-                    "name": "10 asset management"
-                }, 
-                {
-                    "name": "2  fashion"
-                }, 
-                {
-                    "name": "10 venture capitalist"
-                }, 
-                {
-                    "name": "1 e-commerce, venture capital"
-                }, 
-                {
-                    "name": "1 self-storage"
-                }, 
-                {
-                    "name": "2 autos"
-                }, 
-                {
-                    "name": "1 trucking "
-                }, 
-                {
-                    "name": "1 oilfield equipment"
-                }, 
-                {
-                    "name": "1 brokerage/banking"
-                }, 
-                {
-                    "name": "1 sewing machines"
-                }, 
-                {
-                    "name": "1 banking, media"
-                }, 
-                {
-                    "name": "1 media, pipelines"
-                }, 
-                {
-                    "name": "5 aluminum"
-                }, 
-                {
-                    "name": "1 petrochemicals and textiles"
-                }, 
-                {
-                    "name": "2 leather"
-                }, 
-                {
-                    "name": "47 banking"
-                }, 
-                {
-                    "name": "1 printing and electronics"
-                }, 
-                {
-                    "name": "2 industrial goods"
-                }, 
-                {
-                    "name": "3 oil trading"
-                }, 
-                {
-                    "name": "5 cheese"
-                }, 
-                {
-                    "name": "1 animal feed"
-                }, 
-                {
-                    "name": "2 liquor"
-                }, 
-                {
-                    "name": "1 gas and propane"
-                }, 
-                {
-                    "name": "1 fashion/oil"
-                }, 
-                {
-                    "name": "1 retail, financial services, real estate"
-                }, 
-                {
-                    "name": "6 textiles"
-                }, 
-                {
-                    "name": "1 financial information"
-                }, 
-                {
-                    "name": "1 spirits"
-                }, 
-                {
-                    "name": "5 beverages and food"
-                }, 
-                {
-                    "name": "1  Communications"
-                }, 
-                {
-                    "name": "4 diamonds"
-                }, 
-                {
-                    "name": "1 yogurt"
-                }, 
-                {
-                    "name": "1 real estate (shopping malls)"
-                }, 
-                {
-                    "name": "2 gambing"
-                }, 
-                {
-                    "name": "4 infrastructure"
-                }, 
-                {
-                    "name": "7 beverages"
-                }, 
-                {
-                    "name": "1 domestic appliances"
-                }, 
-                {
-                    "name": "2 cars, finance"
-                }, 
-                {
-                    "name": "1  casinos"
-                }, 
-                {
-                    "name": "1 industrial tools"
-                }, 
-                {
-                    "name": "10 restaurant"
-                }, 
-                {
-                    "name": "1 port containers"
-                }, 
-                {
-                    "name": "1 telecom/investments"
-                }, 
-                {
-                    "name": "1 pachinko gaming machines"
-                }, 
-                {
-                    "name": "1 manufacturing, real estate, aviation"
-                }, 
-                {
-                    "name": "1 investment (via holding company)"
-                }, 
-                {
-                    "name": "7 telecommunications"
-                }, 
-                {
-                    "name": "1 roofing"
-                }, 
-                {
-                    "name": "7 publishing"
-                }, 
-                {
-                    "name": "8 beer"
-                }, 
-                {
-                    "name": "2 commodity trading"
-                }, 
-                {
-                    "name": "3 energy, retail, manufacturing"
-                }, 
-                {
-                    "name": "1 telecom, finance"
-                }, 
-                {
-                    "name": "2 sewage treatment"
-                }, 
-                {
-                    "name": "1 confectionary"
-                }, 
-                {
-                    "name": "1 steel "
-                }, 
-                {
-                    "name": "5 gas"
-                }, 
-                {
-                    "name": "1 catering"
-                }, 
-                {
-                    "name": "1 laptops"
-                }, 
-                {
-                    "name": "7 metals"
-                }, 
-                {
-                    "name": "1 aviation"
-                }, 
-                {
-                    "name": "1 sports team"
-                }, 
-                {
-                    "name": "2 art dealing"
-                }, 
-                {
-                    "name": "1 construction/insurance"
-                }, 
-                {
-                    "name": "1 mortgage banking"
-                }, 
-                {
-                    "name": "1 tobacco/luxury brands"
-                }, 
-                {
-                    "name": "2 biotech"
-                }, 
-                {
-                    "name": "1 insurancei, power"
-                }, 
-                {
-                    "name": "1 utilities/financial services"
-                }, 
-                {
-                    "name": "4 shopping centers"
-                }, 
-                {
-                    "name": "1 IT Consulting"
-                }, 
-                {
-                    "name": "1 gas pipeline"
-                }, 
-                {
-                    "name": "50 media"
-                }, 
-                {
-                    "name": "2 GPS technology"
-                }, 
-                {
-                    "name": "1 hospitality and food service"
-                }, 
-                {
-                    "name": "1 airport maintenance"
-                }, 
-                {
-                    "name": "1 mobile app"
-                }, 
-                {
-                    "name": "40 oil"
-                }, 
-                {
-                    "name": "1 oil/investments"
-                }, 
-                {
-                    "name": "1 rental cars"
-                }, 
-                {
-                    "name": "6 cement"
-                }, 
-                {
-                    "name": "3 medical devices"
-                }, 
-                {
-                    "name": "1 lumber, real estate"
-                }, 
-                {
-                    "name": "1 precious metals"
-                }, 
-                {
-                    "name": "1 real estate/sports teams"
-                }, 
-                {
-                    "name": "1 hair care products "
-                }, 
-                {
-                    "name": "1 construction/real estate"
-                }, 
-                {
-                    "name": "1 mortgages"
-                }, 
-                {
-                    "name": "6 investments"
-                }, 
-                {
-                    "name": "3 timber and paper"
-                }, 
-                {
-                    "name": "2 eyeglasses"
-                }, 
-                {
-                    "name": "1 sporting goods"
-                }, 
-                {
-                    "name": "1 auto components"
-                }, 
-                {
-                    "name": "2 timber"
-                }, 
-                {
-                    "name": "1 auto glass"
-                }, 
-                {
-                    "name": "1 flooring"
-                }, 
-                {
-                    "name": "10 cosmetics"
-                }, 
-                {
-                    "name": "1 flavorings"
-                }, 
-                {
-                    "name": "1 palm oil/real estate"
-                }, 
-                {
-                    "name": "1 paper products"
-                }, 
-                {
-                    "name": "1 oil refining"
-                }, 
-                {
-                    "name": "1 media, exports"
-                }, 
-                {
-                    "name": "4 furniture"
-                }, 
-                {
-                    "name": "1 Fashion"
-                }, 
-                {
-                    "name": "1 wireless products"
-                }, 
-                {
-                    "name": "1 cogeneration"
-                }, 
-                {
-                    "name": "1 polymers"
-                }, 
-                {
-                    "name": "6 candy"
-                }, 
-                {
-                    "name": "4 security"
-                }, 
-                {
-                    "name": "2 apparel retail"
-                }, 
-                {
-                    "name": "1 motorcycles"
-                }, 
-                {
-                    "name": "1 luxury fashion"
-                }, 
-                {
-                    "name": "3 elevators"
-                }, 
-                {
-                    "name": "1 heavy manufacturing"
-                }, 
-                {
-                    "name": "1 internet domain and web hosting"
-                }, 
-                {
-                    "name": "2 forestry and mining"
-                }, 
-                {
-                    "name": "1  software"
-                }, 
-                {
-                    "name": "1 construction/real estate/banking"
-                }, 
-                {
-                    "name": "1 mettallurgy"
-                }, 
-                {
-                    "name": "1 jewelry"
-                }, 
-                {
-                    "name": "2 fashion retail"
-                }, 
-                {
-                    "name": "2 infant formula"
-                }, 
-                {
-                    "name": "3 investment mangagment"
-                }, 
-                {
-                    "name": "1 oil services"
-                }, 
-                {
-                    "name": "4  technology"
-                }, 
-                {
-                    "name": "3 online gaming"
-                }, 
-                {
-                    "name": "1 brake systems"
-                }, 
-                {
-                    "name": "1 paper manufacturing/investment"
-                }, 
-                {
-                    "name": "1 cork"
-                }, 
-                {
-                    "name": "1 aplliances"
-                }, 
-                {
-                    "name": "1 drug stores"
-                }, 
-                {
-                    "name": "1 automobile dealers"
-                }, 
-                {
-                    "name": "4 manufacturing"
-                }, 
-                {
-                    "name": "1 travel company"
-                }, 
-                {
-                    "name": "16 shipping"
-                }, 
-                {
-                    "name": "1 seeds"
-                }, 
-                {
-                    "name": "1 airline"
-                }, 
-                {
-                    "name": "2 mining, banking"
-                }, 
-                {
-                    "name": "1 construction, utilities"
-                }, 
-                {
-                    "name": "39 software"
-                }, 
-                {
-                    "name": "1 energy (coal, oil and gas)"
-                }, 
-                {
-                    "name": "2 truck stops"
-                }, 
-                {
-                    "name": "1 measuring instruments"
-                }, 
-                {
-                    "name": "1 shipbuilding"
-                }, 
-                {
-                    "name": "1 banking/insurance"
-                }, 
-                {
-                    "name": "55 pharmaceuticals"
-                }, 
-                {
-                    "name": "1 oil, railroad, investments"
-                }, 
-                {
-                    "name": "2 self storage"
-                }, 
-                {
-                    "name": "60 construction"
-                }, 
-                {
-                    "name": "1 mobile phone batteries"
-                }, 
-                {
-                    "name": "1 Star Wars"
-                }, 
-                {
-                    "name": "1 aircraft leasing"
-                }, 
-                {
-                    "name": "1 banking/publishing"
-                }, 
-                {
-                    "name": "1 trade investment"
-                }, 
-                {
-                    "name": "5 internet companies"
-                }, 
-                {
-                    "name": "1 food production"
-                }, 
-                {
-                    "name": "1 postal service, beverages"
-                }, 
-                {
-                    "name": "1 sports equipment"
-                }, 
-                {
-                    "name": "1 HR consulting"
-                }, 
-                {
-                    "name": "2 dairy products"
-                }, 
-                {
-                    "name": "1 telecomm"
-                }, 
-                {
-                    "name": "6 fertilizers"
-                }, 
-                {
-                    "name": "1 engineering"
-                }, 
-                {
-                    "name": "2 beer and food distribution"
-                }, 
-                {
-                    "name": "7 education"
-                }, 
-                {
-                    "name": "8 hospitals"
-                }, 
-                {
-                    "name": "1 film"
-                }, 
-                {
-                    "name": "1 architectural products"
-                }, 
-                {
-                    "name": "2 retail, home appliances"
-                }, 
-                {
-                    "name": "1 oil tankers"
-                }, 
-                {
-                    "name": "2 mobile phones"
-                }, 
-                {
-                    "name": "1 internet provider"
-                }, 
-                {
-                    "name": "10 apparel"
-                }, 
-                {
-                    "name": "2 waste management"
-                }, 
-                {
-                    "name": "1 airplanes"
-                }, 
-                {
-                    "name": "1 food distribution"
-                }, 
-                {
-                    "name": "1 utilities"
-                }, 
-                {
-                    "name": "1 laboratory services"
-                }, 
-                {
-                    "name": "1 mass transit"
-                }, 
-                {
-                    "name": "1 trucking and logistics"
-                }, 
-                {
-                    "name": "2 fertilizer"
-                }, 
-                {
-                    "name": "1 rice trading, mining, infrastructure"
-                }, 
-                {
-                    "name": "2 private investment company"
-                }, 
-                {
-                    "name": "1 processing machinary"
-                }, 
-                {
-                    "name": "1 cloud computing"
-                }, 
-                {
-                    "name": "2 invetsments"
-                }, 
-                {
-                    "name": "1 soy sauce"
-                }, 
-                {
-                    "name": "1 automotives"
-                }, 
-                {
-                    "name": "4 palm oil"
-                }
-            ]
-        }, 
-        {
-            "name": "Was Political?", 
-            "children": [
-                {
-                    "name": "56 TRUE"
-                }, 
-                {
-                    "name": "1597 FALSE"
-                }
-            ]
-        }, 
-        {
-            "name": "Type", 
-            "children": [
-                {
-                    "name": "467 founder non-finance"
-                }, 
-                {
-                    "name": "142 executive"
-                }, 
-                {
-                    "name": "506 inherited"
-                }, 
-                {
-                    "name": "192 privatized and resources"
-                }, 
-                {
-                    "name": "344 self-made finance"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "name": "Billionaires", 
+        "id": 1
+    }, 
+    {
+        "name": "Category", 
+        "parent": 1, 
+        "id": 2
+    }, 
+    {
+        "name": "360 - Traded Sectors", 
+        "parent": 2, 
+        "id": 3
+    }, 
+    {
+        "name": "209 - New Sectors", 
+        "parent": 2, 
+        "id": 4
+    }, 
+    {
+        "name": "1 - energy", 
+        "parent": 2, 
+        "id": 5
+    }, 
+    {
+        "name": "339 - Non-Traded Sectors", 
+        "parent": 2, 
+        "id": 6
+    }, 
+    {
+        "name": "512 - Financial", 
+        "parent": 2, 
+        "id": 7
+    }, 
+    {
+        "name": "177 - Resource Related", 
+        "parent": 2, 
+        "id": 8
+    }, 
+    {
+        "name": "Gender", 
+        "parent": 1, 
+        "id": 9
+    }, 
+    {
+        "name": "1473 - male", 
+        "parent": 9, 
+        "id": 10
+    }, 
+    {
+        "name": "180 - female", 
+        "parent": 9, 
+        "id": 11
+    }, 
+    {
+        "name": "Gender", 
+        "parent": 1, 
+        "id": 9
+    }, 
+    {
+        "name": "5 - Venture Capital", 
+        "parent": 12, 
+        "id": 13
+    }, 
+    {
+        "name": "131 - Technology-Computer", 
+        "parent": 12, 
+        "id": 14
+    }, 
+    {
+        "name": "43 - Hedge funds", 
+        "parent": 12, 
+        "id": 15
+    }, 
+    {
+        "name": "104 - Media", 
+        "parent": 12, 
+        "id": 16
+    }, 
+    {
+        "name": "87 - Energy", 
+        "parent": 12, 
+        "id": 17
+    }, 
+    {
+        "name": "122 - Money Management", 
+        "parent": 12, 
+        "id": 18
+    }, 
+    {
+        "name": "78 - Technology-Medical", 
+        "parent": 12, 
+        "id": 19
+    }, 
+    {
+        "name": "68 - Mining and metals", 
+        "parent": 12, 
+        "id": 20
+    }, 
+    {
+        "name": "83 - Non-consumer industrial", 
+        "parent": 12, 
+        "id": 21
+    }, 
+    {
+        "name": "59 - Other", 
+        "parent": 12, 
+        "id": 22
+    }, 
+    {
+        "name": "174 - Retail, Restaurant", 
+        "parent": 12, 
+        "id": 23
+    }, 
+    {
+        "name": "190 - Real Estate", 
+        "parent": 12, 
+        "id": 24
+    }, 
+    {
+        "name": "132 - Diversified financial", 
+        "parent": 12, 
+        "id": 25
+    }, 
+    {
+        "name": "18 - Private equity/leveraged buyout", 
+        "parent": 12, 
+        "id": 26
+    }, 
+    {
+        "name": "291 - Consumer", 
+        "parent": 12, 
+        "id": 27
+    }, 
+    {
+        "name": "61 - Constrution", 
+        "parent": 12, 
+        "id": 28
+    }, 
+    {
+        "name": "Region", 
+        "parent": 1, 
+        "id": 29
+    }, 
+    {
+        "name": "470 - Europe", 
+        "parent": 29, 
+        "id": 30
+    }, 
+    {
+        "name": "351 - East Asia", 
+        "parent": 29, 
+        "id": 31
+    }, 
+    {
+        "name": "562 - North America", 
+        "parent": 29, 
+        "id": 32
+    }, 
+    {
+        "name": "16 - Sub-Saharan Africa", 
+        "parent": 29, 
+        "id": 33
+    }, 
+    {
+        "name": "62 - South Asia", 
+        "parent": 29, 
+        "id": 34
+    }, 
+    {
+        "name": "78 - Middle East/North Africa", 
+        "parent": 29, 
+        "id": 35
+    }, 
+    {
+        "name": "114 - Latin America", 
+        "parent": 29, 
+        "id": 36
+    }, 
+    {
+        "name": "Sector", 
+        "parent": 1, 
+        "id": 37
+    }, 
+    {
+        "name": "1 - nutrition supplements", 
+        "parent": 37, 
+        "id": 38
+    }, 
+    {
+        "name": "2 - kitchen appliances", 
+        "parent": 37, 
+        "id": 39
+    }, 
+    {
+        "name": "2 - aluminum, oil", 
+        "parent": 37, 
+        "id": 40
+    }, 
+    {
+        "name": "44 - hedge funds", 
+        "parent": 37, 
+        "id": 41
+    }, 
+    {
+        "name": "2 - staffing company", 
+        "parent": 37, 
+        "id": 42
+    }, 
+    {
+        "name": "2 - iron ore", 
+        "parent": 37, 
+        "id": 43
+    }, 
+    {
+        "name": "20 - groceries", 
+        "parent": 37, 
+        "id": 44
+    }, 
+    {
+        "name": "1 - telecom, oil, beer", 
+        "parent": 37, 
+        "id": 45
+    }, 
+    {
+        "name": "3 - construction,banking", 
+        "parent": 37, 
+        "id": 46
+    }, 
+    {
+        "name": "2 - milk", 
+        "parent": 37, 
+        "id": 47
+    }, 
+    {
+        "name": "1 - real estate, financial services and computers", 
+        "parent": 37, 
+        "id": 48
+    }, 
+    {
+        "name": "1 - gas, petrochemicals", 
+        "parent": 37, 
+        "id": 49
+    }, 
+    {
+        "name": "1 - property development", 
+        "parent": 37, 
+        "id": 50
+    }, 
+    {
+        "name": "1 - electricity", 
+        "parent": 37, 
+        "id": 51
+    }, 
+    {
+        "name": "8 - natural gas", 
+        "parent": 37, 
+        "id": 52
+    }, 
+    {
+        "name": "1 - sports retail", 
+        "parent": 37, 
+        "id": 53
+    }, 
+    {
+        "name": "1 - bicycles", 
+        "parent": 37, 
+        "id": 54
+    }, 
+    {
+        "name": "3 - dairy", 
+        "parent": 37, 
+        "id": 55
+    }, 
+    {
+        "name": "1 - information services", 
+        "parent": 37, 
+        "id": 56
+    }, 
+    {
+        "name": "1 - locomotive manufacturing", 
+        "parent": 37, 
+        "id": 57
+    }, 
+    {
+        "name": "1 - mail order retail", 
+        "parent": 37, 
+        "id": 58
+    }, 
+    {
+        "name": "1 - automotive", 
+        "parent": 37, 
+        "id": 59
+    }, 
+    {
+        "name": "1 - real estate/banking", 
+        "parent": 37, 
+        "id": 60
+    }, 
+    {
+        "name": "1 - electronic componants", 
+        "parent": 37, 
+        "id": 61
+    }, 
+    {
+        "name": "6 - food processing/commodities", 
+        "parent": 37, 
+        "id": 62
+    }, 
+    {
+        "name": "11 - automobiles", 
+        "parent": 37, 
+        "id": 63
+    }, 
+    {
+        "name": "1 - commodities trading", 
+        "parent": 37, 
+        "id": 64
+    }, 
+    {
+        "name": "1 - manufacturing (agriculture, steel, electronics)", 
+        "parent": 37, 
+        "id": 65
+    }, 
+    {
+        "name": "1 - oil and natural gas", 
+        "parent": 37, 
+        "id": 66
+    }, 
+    {
+        "name": "1 - cable", 
+        "parent": 37, 
+        "id": 67
+    }, 
+    {
+        "name": "2 - medical technology", 
+        "parent": 37, 
+        "id": 68
+    }, 
+    {
+        "name": "1 - mining, steel", 
+        "parent": 37, 
+        "id": 69
+    }, 
+    {
+        "name": "1 - gum", 
+        "parent": 37, 
+        "id": 70
+    }, 
+    {
+        "name": "1 - healthcare IT", 
+        "parent": 37, 
+        "id": 71
+    }, 
+    {
+        "name": "7 - casinos", 
+        "parent": 37, 
+        "id": 72
+    }, 
+    {
+        "name": "11 - financial services", 
+        "parent": 37, 
+        "id": 73
+    }, 
+    {
+        "name": "122 - real estate", 
+        "parent": 37, 
+        "id": 74
+    }, 
+    {
+        "name": "1 - logistics", 
+        "parent": 37, 
+        "id": 75
+    }, 
+    {
+        "name": "1 - home furnishings", 
+        "parent": 37, 
+        "id": 76
+    }, 
+    {
+        "name": "1 - tires", 
+        "parent": 37, 
+        "id": 77
+    }, 
+    {
+        "name": "1 - food, entertainment", 
+        "parent": 37, 
+        "id": 78
+    }, 
+    {
+        "name": "2 - port", 
+        "parent": 37, 
+        "id": 79
+    }, 
+    {
+        "name": "1 - food manufacturing", 
+        "parent": 37, 
+        "id": 80
+    }, 
+    {
+        "name": "4 - soup", 
+        "parent": 37, 
+        "id": 81
+    }, 
+    {
+        "name": "3 - home improvement retail", 
+        "parent": 37, 
+        "id": 82
+    }, 
+    {
+        "name": "1 - pipes", 
+        "parent": 37, 
+        "id": 83
+    }, 
+    {
+        "name": "1 - technology publishing", 
+        "parent": 37, 
+        "id": 84
+    }, 
+    {
+        "name": "1 - snack foods", 
+        "parent": 37, 
+        "id": 85
+    }, 
+    {
+        "name": "1 - copper, poultry", 
+        "parent": 37, 
+        "id": 86
+    }, 
+    {
+        "name": "1 - toll roads", 
+        "parent": 37, 
+        "id": 87
+    }, 
+    {
+        "name": "1 - lumber", 
+        "parent": 37, 
+        "id": 88
+    }, 
+    {
+        "name": "1 - copper/mining", 
+        "parent": 37, 
+        "id": 89
+    }, 
+    {
+        "name": "1 - racing", 
+        "parent": 37, 
+        "id": 90
+    }, 
+    {
+        "name": "1 - sugar, flour, cement", 
+        "parent": 37, 
+        "id": 91
+    }, 
+    {
+        "name": "2 - transportation", 
+        "parent": 37, 
+        "id": 92
+    }, 
+    {
+        "name": "2 - automotive parts", 
+        "parent": 37, 
+        "id": 93
+    }, 
+    {
+        "name": "4 - makeup", 
+        "parent": 37, 
+        "id": 94
+    }, 
+    {
+        "name": "3 - diapers", 
+        "parent": 37, 
+        "id": 95
+    }, 
+    {
+        "name": "1 - watch retail", 
+        "parent": 37, 
+        "id": 96
+    }, 
+    {
+        "name": "8 - coal", 
+        "parent": 37, 
+        "id": 97
+    }, 
+    {
+        "name": "1 - ethanol", 
+        "parent": 37, 
+        "id": 98
+    }, 
+    {
+        "name": "1 - web broadcasting", 
+        "parent": 37, 
+        "id": 99
+    }, 
+    {
+        "name": "1 - elevators, escalators, engineering", 
+        "parent": 37, 
+        "id": 100
+    }, 
+    {
+        "name": "1 - hair care", 
+        "parent": 37, 
+        "id": 101
+    }, 
+    {
+        "name": "1 - power engineering", 
+        "parent": 37, 
+        "id": 102
+    }, 
+    {
+        "name": "2 - airport", 
+        "parent": 37, 
+        "id": 103
+    }, 
+    {
+        "name": "4 - food packaging", 
+        "parent": 37, 
+        "id": 104
+    }, 
+    {
+        "name": "5 - advertising", 
+        "parent": 37, 
+        "id": 105
+    }, 
+    {
+        "name": "2 - hospitality", 
+        "parent": 37, 
+        "id": 106
+    }, 
+    {
+        "name": "1 - frozen foods", 
+        "parent": 37, 
+        "id": 107
+    }, 
+    {
+        "name": "3 - cell phones", 
+        "parent": 37, 
+        "id": 108
+    }, 
+    {
+        "name": "3 - semiconductors", 
+        "parent": 37, 
+        "id": 109
+    }, 
+    {
+        "name": "1 - hair care products/tequila", 
+        "parent": 37, 
+        "id": 110
+    }, 
+    {
+        "name": "1 - food retail", 
+        "parent": 37, 
+        "id": 111
+    }, 
+    {
+        "name": "1 -  Oil refining", 
+        "parent": 37, 
+        "id": 112
+    }, 
+    {
+        "name": "1 - appliances", 
+        "parent": 37, 
+        "id": 113
+    }, 
+    {
+        "name": "6 - toys", 
+        "parent": 37, 
+        "id": 114
+    }, 
+    {
+        "name": "17 - hotels", 
+        "parent": 37, 
+        "id": 115
+    }, 
+    {
+        "name": "1 - ports, gas", 
+        "parent": 37, 
+        "id": 116
+    }, 
+    {
+        "name": "1 - textiles, industrial goods, media", 
+        "parent": 37, 
+        "id": 117
+    }, 
+    {
+        "name": "1 - chocolates", 
+        "parent": 37, 
+        "id": 118
+    }, 
+    {
+        "name": "1 - petroleum", 
+        "parent": 37, 
+        "id": 119
+    }, 
+    {
+        "name": "4 - auto retail", 
+        "parent": 37, 
+        "id": 120
+    }, 
+    {
+        "name": "1 - sports", 
+        "parent": 37, 
+        "id": 121
+    }, 
+    {
+        "name": "1 - bridge to canada", 
+        "parent": 37, 
+        "id": 122
+    }, 
+    {
+        "name": "1 - risk management", 
+        "parent": 37, 
+        "id": 123
+    }, 
+    {
+        "name": "1 - music", 
+        "parent": 37, 
+        "id": 124
+    }, 
+    {
+        "name": "1 - industrial manufacturing and banking", 
+        "parent": 37, 
+        "id": 125
+    }, 
+    {
+        "name": "1 - linear actuators", 
+        "parent": 37, 
+        "id": 126
+    }, 
+    {
+        "name": "1 -  Software", 
+        "parent": 37, 
+        "id": 127
+    }, 
+    {
+        "name": "2 - roller bearings", 
+        "parent": 37, 
+        "id": 128
+    }, 
+    {
+        "name": "4 - Banking", 
+        "parent": 37, 
+        "id": 129
+    }, 
+    {
+        "name": "2 - electonics components", 
+        "parent": 37, 
+        "id": 130
+    }, 
+    {
+        "name": "2 - data processing", 
+        "parent": 37, 
+        "id": 131
+    }, 
+    {
+        "name": "1 - antennas", 
+        "parent": 37, 
+        "id": 132
+    }, 
+    {
+        "name": "1 - education, language schools", 
+        "parent": 37, 
+        "id": 133
+    }, 
+    {
+        "name": "1 - construction, hotels, gaming", 
+        "parent": 37, 
+        "id": 134
+    }, 
+    {
+        "name": "1 - video technology", 
+        "parent": 37, 
+        "id": 135
+    }, 
+    {
+        "name": "1 - video games", 
+        "parent": 37, 
+        "id": 136
+    }, 
+    {
+        "name": "1 - port logistics", 
+        "parent": 37, 
+        "id": 137
+    }, 
+    {
+        "name": "1 - laundry soap", 
+        "parent": 37, 
+        "id": 138
+    }, 
+    {
+        "name": "2 - movies", 
+        "parent": 37, 
+        "id": 139
+    }, 
+    {
+        "name": "1 - printing", 
+        "parent": 37, 
+        "id": 140
+    }, 
+    {
+        "name": "1 - consumer retail", 
+        "parent": 37, 
+        "id": 141
+    }, 
+    {
+        "name": "3 - investment banking/beer", 
+        "parent": 37, 
+        "id": 142
+    }, 
+    {
+        "name": "2 - agribusiness", 
+        "parent": 37, 
+        "id": 143
+    }, 
+    {
+        "name": "1 - payroll processing ", 
+        "parent": 37, 
+        "id": 144
+    }, 
+    {
+        "name": "1 - diamond jewelry", 
+        "parent": 37, 
+        "id": 145
+    }, 
+    {
+        "name": "1 - restaurants", 
+        "parent": 37, 
+        "id": 146
+    }, 
+    {
+        "name": "1 - biotech investing", 
+        "parent": 37, 
+        "id": 147
+    }, 
+    {
+        "name": "4 - clothing ", 
+        "parent": 37, 
+        "id": 148
+    }, 
+    {
+        "name": "5 - clothing", 
+        "parent": 37, 
+        "id": 149
+    }, 
+    {
+        "name": "1 - automotive components", 
+        "parent": 37, 
+        "id": 150
+    }, 
+    {
+        "name": "20 - technology", 
+        "parent": 37, 
+        "id": 151
+    }, 
+    {
+        "name": "1 - shoe retail", 
+        "parent": 37, 
+        "id": 152
+    }, 
+    {
+        "name": "7 - cleaning supplies", 
+        "parent": 37, 
+        "id": 153
+    }, 
+    {
+        "name": "1 - biopharmaceutical", 
+        "parent": 37, 
+        "id": 154
+    }, 
+    {
+        "name": "1 - banking and real estate", 
+        "parent": 37, 
+        "id": 155
+    }, 
+    {
+        "name": "1 - auto sales, energy", 
+        "parent": 37, 
+        "id": 156
+    }, 
+    {
+        "name": "1 - boats", 
+        "parent": 37, 
+        "id": 157
+    }, 
+    {
+        "name": "1 - banking, oil, aluminum", 
+        "parent": 37, 
+        "id": 158
+    }, 
+    {
+        "name": "1 - heating systems", 
+        "parent": 37, 
+        "id": 159
+    }, 
+    {
+        "name": "5 - gaming", 
+        "parent": 37, 
+        "id": 160
+    }, 
+    {
+        "name": "1 - meat products", 
+        "parent": 37, 
+        "id": 161
+    }, 
+    {
+        "name": "1 - trade fairs", 
+        "parent": 37, 
+        "id": 162
+    }, 
+    {
+        "name": "1 - timber, plantations", 
+        "parent": 37, 
+        "id": 163
+    }, 
+    {
+        "name": "1 - salsa", 
+        "parent": 37, 
+        "id": 164
+    }, 
+    {
+        "name": "1 - property, textile manufacturing", 
+        "parent": 37, 
+        "id": 165
+    }, 
+    {
+        "name": "1 - security equipment", 
+        "parent": 37, 
+        "id": 166
+    }, 
+    {
+        "name": "1 - mining, investments", 
+        "parent": 37, 
+        "id": 167
+    }, 
+    {
+        "name": "1 - credit cards", 
+        "parent": 37, 
+        "id": 168
+    }, 
+    {
+        "name": "2 - money management", 
+        "parent": 37, 
+        "id": 169
+    }, 
+    {
+        "name": "2 - supermarkets", 
+        "parent": 37, 
+        "id": 170
+    }, 
+    {
+        "name": "1 - cigarettes", 
+        "parent": 37, 
+        "id": 171
+    }, 
+    {
+        "name": "1 - broadcasting", 
+        "parent": 37, 
+        "id": 172
+    }, 
+    {
+        "name": "1 - healthcare", 
+        "parent": 37, 
+        "id": 173
+    }, 
+    {
+        "name": "1 - life insurance", 
+        "parent": 37, 
+        "id": 174
+    }, 
+    {
+        "name": "2 - mutual funds", 
+        "parent": 37, 
+        "id": 175
+    }, 
+    {
+        "name": "3 - banking, real estate", 
+        "parent": 37, 
+        "id": 176
+    }, 
+    {
+        "name": "1 - pet food", 
+        "parent": 37, 
+        "id": 177
+    }, 
+    {
+        "name": "1 - home building materials", 
+        "parent": 37, 
+        "id": 178
+    }, 
+    {
+        "name": "5 - shoes", 
+        "parent": 37, 
+        "id": 179
+    }, 
+    {
+        "name": "1 - wine and spirits", 
+        "parent": 37, 
+        "id": 180
+    }, 
+    {
+        "name": "9 - oil and gas", 
+        "parent": 37, 
+        "id": 181
+    }, 
+    {
+        "name": "6 - telecom", 
+        "parent": 37, 
+        "id": 182
+    }, 
+    {
+        "name": "1 - agriculteral", 
+        "parent": 37, 
+        "id": 183
+    }, 
+    {
+        "name": "2 -  Finance", 
+        "parent": 37, 
+        "id": 184
+    }, 
+    {
+        "name": "2 - electonics", 
+        "parent": 37, 
+        "id": 185
+    }, 
+    {
+        "name": "1 - commodities", 
+        "parent": 37, 
+        "id": 186
+    }, 
+    {
+        "name": "6 - paper", 
+        "parent": 37, 
+        "id": 187
+    }, 
+    {
+        "name": "9 - petrochemicals", 
+        "parent": 37, 
+        "id": 188
+    }, 
+    {
+        "name": "1 - apparel and eyewear", 
+        "parent": 37, 
+        "id": 189
+    }, 
+    {
+        "name": "1 - tire manufacturing", 
+        "parent": 37, 
+        "id": 190
+    }, 
+    {
+        "name": "1 - commodities (sugar, cement flour)", 
+        "parent": 37, 
+        "id": 191
+    }, 
+    {
+        "name": "1 - medical equipment", 
+        "parent": 37, 
+        "id": 192
+    }, 
+    {
+        "name": "1 - stock brokerage", 
+        "parent": 37, 
+        "id": 193
+    }, 
+    {
+        "name": "1 - holding company", 
+        "parent": 37, 
+        "id": 194
+    }, 
+    {
+        "name": "6 - coffee", 
+        "parent": 37, 
+        "id": 195
+    }, 
+    {
+        "name": "2 - finance", 
+        "parent": 37, 
+        "id": 196
+    }, 
+    {
+        "name": "4 - food", 
+        "parent": 37, 
+        "id": 197
+    }, 
+    {
+        "name": "23 - private equity", 
+        "parent": 37, 
+        "id": 198
+    }, 
+    {
+        "name": "7 - consumer goods", 
+        "parent": 37, 
+        "id": 199
+    }, 
+    {
+        "name": "1 - real estate, retail", 
+        "parent": 37, 
+        "id": 200
+    }, 
+    {
+        "name": "1 - bank", 
+        "parent": 37, 
+        "id": 201
+    }, 
+    {
+        "name": "1 - gambling software", 
+        "parent": 37, 
+        "id": 202
+    }, 
+    {
+        "name": "1 - winter jackets", 
+        "parent": 37, 
+        "id": 203
+    }, 
+    {
+        "name": "2 - airports", 
+        "parent": 37, 
+        "id": 204
+    }, 
+    {
+        "name": "4 - tobacco", 
+        "parent": 37, 
+        "id": 205
+    }, 
+    {
+        "name": "1 - greeting cards", 
+        "parent": 37, 
+        "id": 206
+    }, 
+    {
+        "name": "1 - braking systems", 
+        "parent": 37, 
+        "id": 207
+    }, 
+    {
+        "name": "1 - iron and steel", 
+        "parent": 37, 
+        "id": 208
+    }, 
+    {
+        "name": "2 - glasses", 
+        "parent": 37, 
+        "id": 209
+    }, 
+    {
+        "name": "1 - food and energy processess", 
+        "parent": 37, 
+        "id": 210
+    }, 
+    {
+        "name": "1 - steel/oil", 
+        "parent": 37, 
+        "id": 211
+    }, 
+    {
+        "name": "3 - energy", 
+        "parent": 37, 
+        "id": 212
+    }, 
+    {
+        "name": "1 - trading", 
+        "parent": 37, 
+        "id": 213
+    }, 
+    {
+        "name": "1 - hardware stores", 
+        "parent": 37, 
+        "id": 214
+    }, 
+    {
+        "name": "1 - investments/real estate, sports teams", 
+        "parent": 37, 
+        "id": 215
+    }, 
+    {
+        "name": "6 - agriculture", 
+        "parent": 37, 
+        "id": 216
+    }, 
+    {
+        "name": "14 - insurance", 
+        "parent": 37, 
+        "id": 217
+    }, 
+    {
+        "name": "2 - alcohol", 
+        "parent": 37, 
+        "id": 218
+    }, 
+    {
+        "name": "12 - entertainment", 
+        "parent": 37, 
+        "id": 219
+    }, 
+    {
+        "name": "7 - internet company", 
+        "parent": 37, 
+        "id": 220
+    }, 
+    {
+        "name": "1 - cameras", 
+        "parent": 37, 
+        "id": 221
+    }, 
+    {
+        "name": "11 - internet", 
+        "parent": 37, 
+        "id": 222
+    }, 
+    {
+        "name": "19 - electronics", 
+        "parent": 37, 
+        "id": 223
+    }, 
+    {
+        "name": "1 - brewery", 
+        "parent": 37, 
+        "id": 224
+    }, 
+    {
+        "name": "5 - diversified investments", 
+        "parent": 37, 
+        "id": 225
+    }, 
+    {
+        "name": "1 - wrestling promotion", 
+        "parent": 37, 
+        "id": 226
+    }, 
+    {
+        "name": "7 - cars", 
+        "parent": 37, 
+        "id": 227
+    }, 
+    {
+        "name": "6 - metals, paper, cement", 
+        "parent": 37, 
+        "id": 228
+    }, 
+    {
+        "name": "1 - tractors", 
+        "parent": 37, 
+        "id": 229
+    }, 
+    {
+        "name": "1 - leveraged buyout", 
+        "parent": 37, 
+        "id": 230
+    }, 
+    {
+        "name": "2 - mutal funds", 
+        "parent": 37, 
+        "id": 231
+    }, 
+    {
+        "name": "1 - oleochemicals and palm oil", 
+        "parent": 37, 
+        "id": 232
+    }, 
+    {
+        "name": "1 - internet service provider", 
+        "parent": 37, 
+        "id": 233
+    }, 
+    {
+        "name": "3 - leveraged buyouts", 
+        "parent": 37, 
+        "id": 234
+    }, 
+    {
+        "name": "1 - truck stop", 
+        "parent": 37, 
+        "id": 235
+    }, 
+    {
+        "name": "3 -  finance", 
+        "parent": 37, 
+        "id": 236
+    }, 
+    {
+        "name": "1 - microchips", 
+        "parent": 37, 
+        "id": 237
+    }, 
+    {
+        "name": "2 - footwear", 
+        "parent": 37, 
+        "id": 238
+    }, 
+    {
+        "name": "1 - oil/telecommunications", 
+        "parent": 37, 
+        "id": 239
+    }, 
+    {
+        "name": "78 - retail", 
+        "parent": 37, 
+        "id": 240
+    }, 
+    {
+        "name": "1 - industrial software", 
+        "parent": 37, 
+        "id": 241
+    }, 
+    {
+        "name": "2 - copper", 
+        "parent": 37, 
+        "id": 242
+    }, 
+    {
+        "name": "1 - plastics", 
+        "parent": 37, 
+        "id": 243
+    }, 
+    {
+        "name": "1 - hotels and supermarkets", 
+        "parent": 37, 
+        "id": 244
+    }, 
+    {
+        "name": "14 - investment banking", 
+        "parent": 37, 
+        "id": 245
+    }, 
+    {
+        "name": "1 - metals and mining", 
+        "parent": 37, 
+        "id": 246
+    }, 
+    {
+        "name": "1 - lawsuits", 
+        "parent": 37, 
+        "id": 247
+    }, 
+    {
+        "name": "2 - plastic", 
+        "parent": 37, 
+        "id": 248
+    }, 
+    {
+        "name": "2 - paint", 
+        "parent": 37, 
+        "id": 249
+    }, 
+    {
+        "name": "1 - petrochemicals, textiles", 
+        "parent": 37, 
+        "id": 250
+    }, 
+    {
+        "name": "1 - currency trading", 
+        "parent": 37, 
+        "id": 251
+    }, 
+    {
+        "name": "1 - wind energy", 
+        "parent": 37, 
+        "id": 252
+    }, 
+    {
+        "name": "22 - mining", 
+        "parent": 37, 
+        "id": 253
+    }, 
+    {
+        "name": "1 - pipelines", 
+        "parent": 37, 
+        "id": 254
+    }, 
+    {
+        "name": "1 - landscape architecture", 
+        "parent": 37, 
+        "id": 255
+    }, 
+    {
+        "name": "7 - chemicals", 
+        "parent": 37, 
+        "id": 256
+    }, 
+    {
+        "name": "15 - steel", 
+        "parent": 37, 
+        "id": 257
+    }, 
+    {
+        "name": "1 - solar energy", 
+        "parent": 37, 
+        "id": 258
+    }, 
+    {
+        "name": "2 - television", 
+        "parent": 37, 
+        "id": 259
+    }, 
+    {
+        "name": "1 - vacuum cleaners", 
+        "parent": 37, 
+        "id": 260
+    }, 
+    {
+        "name": "1 - finance ", 
+        "parent": 37, 
+        "id": 261
+    }, 
+    {
+        "name": "1 - iron", 
+        "parent": 37, 
+        "id": 262
+    }, 
+    {
+        "name": "16 - fashion", 
+        "parent": 37, 
+        "id": 263
+    }, 
+    {
+        "name": "2 - oil exploration equipment", 
+        "parent": 37, 
+        "id": 264
+    }, 
+    {
+        "name": "1 - meat processing", 
+        "parent": 37, 
+        "id": 265
+    }, 
+    {
+        "name": "1 - food sweeteners", 
+        "parent": 37, 
+        "id": 266
+    }, 
+    {
+        "name": "10 - luxury goods", 
+        "parent": 37, 
+        "id": 267
+    }, 
+    {
+        "name": "1 - real estate and metals", 
+        "parent": 37, 
+        "id": 268
+    }, 
+    {
+        "name": "1 - screws", 
+        "parent": 37, 
+        "id": 269
+    }, 
+    {
+        "name": "2 - soft drinks", 
+        "parent": 37, 
+        "id": 270
+    }, 
+    {
+        "name": "1 - security and surveillance technology", 
+        "parent": 37, 
+        "id": 271
+    }, 
+    {
+        "name": "1 - business centers", 
+        "parent": 37, 
+        "id": 272
+    }, 
+    {
+        "name": "3 -   Oil refining", 
+        "parent": 37, 
+        "id": 273
+    }, 
+    {
+        "name": "9 - e-commerce", 
+        "parent": 37, 
+        "id": 274
+    }, 
+    {
+        "name": "1 - cranes", 
+        "parent": 37, 
+        "id": 275
+    }, 
+    {
+        "name": "1 - heavy equiptment (excavators, backhoes and tractors)", 
+        "parent": 37, 
+        "id": 276
+    }, 
+    {
+        "name": "7 - investment", 
+        "parent": 37, 
+        "id": 277
+    }, 
+    {
+        "name": "1 - animation", 
+        "parent": 37, 
+        "id": 278
+    }, 
+    {
+        "name": "1 - sportswear", 
+        "parent": 37, 
+        "id": 279
+    }, 
+    {
+        "name": "1 - food processing", 
+        "parent": 37, 
+        "id": 280
+    }, 
+    {
+        "name": "1 - steel/banking", 
+        "parent": 37, 
+        "id": 281
+    }, 
+    {
+        "name": "1 - bottled water", 
+        "parent": 37, 
+        "id": 282
+    }, 
+    {
+        "name": "1 - express delivery services", 
+        "parent": 37, 
+        "id": 283
+    }, 
+    {
+        "name": "1 - beauty and health care products", 
+        "parent": 37, 
+        "id": 284
+    }, 
+    {
+        "name": "1 - dental implants", 
+        "parent": 37, 
+        "id": 285
+    }, 
+    {
+        "name": "4 - auto parts", 
+        "parent": 37, 
+        "id": 286
+    }, 
+    {
+        "name": "1 - natural flavors", 
+        "parent": 37, 
+        "id": 287
+    }, 
+    {
+        "name": "1 - industrial equipment", 
+        "parent": 37, 
+        "id": 288
+    }, 
+    {
+        "name": "5 - medical supplies", 
+        "parent": 37, 
+        "id": 289
+    }, 
+    {
+        "name": "1 - auto repair", 
+        "parent": 37, 
+        "id": 290
+    }, 
+    {
+        "name": "1 - air compressors", 
+        "parent": 37, 
+        "id": 291
+    }, 
+    {
+        "name": "1 - metals/banking", 
+        "parent": 37, 
+        "id": 292
+    }, 
+    {
+        "name": "1 - hostile takeovers", 
+        "parent": 37, 
+        "id": 293
+    }, 
+    {
+        "name": "2 - aigriculture", 
+        "parent": 37, 
+        "id": 294
+    }, 
+    {
+        "name": "1 - heavy equipment", 
+        "parent": 37, 
+        "id": 295
+    }, 
+    {
+        "name": "1 - relocation services", 
+        "parent": 37, 
+        "id": 296
+    }, 
+    {
+        "name": "1 - security ", 
+        "parent": 37, 
+        "id": 297
+    }, 
+    {
+        "name": "2 - supply chain", 
+        "parent": 37, 
+        "id": 298
+    }, 
+    {
+        "name": "2 - cruises", 
+        "parent": 37, 
+        "id": 299
+    }, 
+    {
+        "name": "1 - social network", 
+        "parent": 37, 
+        "id": 300
+    }, 
+    {
+        "name": "3 - commodities (wheat, oil, shipping)", 
+        "parent": 37, 
+        "id": 301
+    }, 
+    {
+        "name": "2 -  retail", 
+        "parent": 37, 
+        "id": 302
+    }, 
+    {
+        "name": "2 - food products", 
+        "parent": 37, 
+        "id": 303
+    }, 
+    {
+        "name": "1 - cleaning products", 
+        "parent": 37, 
+        "id": 304
+    }, 
+    {
+        "name": "1 - pet supplies, real estate", 
+        "parent": 37, 
+        "id": 305
+    }, 
+    {
+        "name": "3 - healthcare management", 
+        "parent": 37, 
+        "id": 306
+    }, 
+    {
+        "name": "1 - palm oil, mining", 
+        "parent": 37, 
+        "id": 307
+    }, 
+    {
+        "name": "10 - asset management", 
+        "parent": 37, 
+        "id": 308
+    }, 
+    {
+        "name": "2 -  fashion", 
+        "parent": 37, 
+        "id": 309
+    }, 
+    {
+        "name": "10 - venture capitalist", 
+        "parent": 37, 
+        "id": 310
+    }, 
+    {
+        "name": "1 - e-commerce, venture capital", 
+        "parent": 37, 
+        "id": 311
+    }, 
+    {
+        "name": "1 - self-storage", 
+        "parent": 37, 
+        "id": 312
+    }, 
+    {
+        "name": "2 - autos", 
+        "parent": 37, 
+        "id": 313
+    }, 
+    {
+        "name": "1 - trucking ", 
+        "parent": 37, 
+        "id": 314
+    }, 
+    {
+        "name": "1 - oilfield equipment", 
+        "parent": 37, 
+        "id": 315
+    }, 
+    {
+        "name": "1 - brokerage/banking", 
+        "parent": 37, 
+        "id": 316
+    }, 
+    {
+        "name": "1 - sewing machines", 
+        "parent": 37, 
+        "id": 317
+    }, 
+    {
+        "name": "1 - banking, media", 
+        "parent": 37, 
+        "id": 318
+    }, 
+    {
+        "name": "1 - media, pipelines", 
+        "parent": 37, 
+        "id": 319
+    }, 
+    {
+        "name": "5 - aluminum", 
+        "parent": 37, 
+        "id": 320
+    }, 
+    {
+        "name": "1 - petrochemicals and textiles", 
+        "parent": 37, 
+        "id": 321
+    }, 
+    {
+        "name": "2 - leather", 
+        "parent": 37, 
+        "id": 322
+    }, 
+    {
+        "name": "47 - banking", 
+        "parent": 37, 
+        "id": 323
+    }, 
+    {
+        "name": "1 - printing and electronics", 
+        "parent": 37, 
+        "id": 324
+    }, 
+    {
+        "name": "2 - industrial goods", 
+        "parent": 37, 
+        "id": 325
+    }, 
+    {
+        "name": "3 - oil trading", 
+        "parent": 37, 
+        "id": 326
+    }, 
+    {
+        "name": "5 - cheese", 
+        "parent": 37, 
+        "id": 327
+    }, 
+    {
+        "name": "1 - animal feed", 
+        "parent": 37, 
+        "id": 328
+    }, 
+    {
+        "name": "2 - liquor", 
+        "parent": 37, 
+        "id": 329
+    }, 
+    {
+        "name": "1 - gas and propane", 
+        "parent": 37, 
+        "id": 330
+    }, 
+    {
+        "name": "1 - fashion/oil", 
+        "parent": 37, 
+        "id": 331
+    }, 
+    {
+        "name": "1 - retail, financial services, real estate", 
+        "parent": 37, 
+        "id": 332
+    }, 
+    {
+        "name": "6 - textiles", 
+        "parent": 37, 
+        "id": 333
+    }, 
+    {
+        "name": "1 - financial information", 
+        "parent": 37, 
+        "id": 334
+    }, 
+    {
+        "name": "1 - spirits", 
+        "parent": 37, 
+        "id": 335
+    }, 
+    {
+        "name": "5 - beverages and food", 
+        "parent": 37, 
+        "id": 336
+    }, 
+    {
+        "name": "1 -  Communications", 
+        "parent": 37, 
+        "id": 337
+    }, 
+    {
+        "name": "4 - diamonds", 
+        "parent": 37, 
+        "id": 338
+    }, 
+    {
+        "name": "1 - yogurt", 
+        "parent": 37, 
+        "id": 339
+    }, 
+    {
+        "name": "1 - real estate (shopping malls)", 
+        "parent": 37, 
+        "id": 340
+    }, 
+    {
+        "name": "2 - gambing", 
+        "parent": 37, 
+        "id": 341
+    }, 
+    {
+        "name": "4 - infrastructure", 
+        "parent": 37, 
+        "id": 342
+    }, 
+    {
+        "name": "7 - beverages", 
+        "parent": 37, 
+        "id": 343
+    }, 
+    {
+        "name": "1 - domestic appliances", 
+        "parent": 37, 
+        "id": 344
+    }, 
+    {
+        "name": "2 - cars, finance", 
+        "parent": 37, 
+        "id": 345
+    }, 
+    {
+        "name": "1 -  casinos", 
+        "parent": 37, 
+        "id": 346
+    }, 
+    {
+        "name": "1 - industrial tools", 
+        "parent": 37, 
+        "id": 347
+    }, 
+    {
+        "name": "10 - restaurant", 
+        "parent": 37, 
+        "id": 348
+    }, 
+    {
+        "name": "1 - port containers", 
+        "parent": 37, 
+        "id": 349
+    }, 
+    {
+        "name": "1 - telecom/investments", 
+        "parent": 37, 
+        "id": 350
+    }, 
+    {
+        "name": "1 - pachinko gaming machines", 
+        "parent": 37, 
+        "id": 351
+    }, 
+    {
+        "name": "1 - manufacturing, real estate, aviation", 
+        "parent": 37, 
+        "id": 352
+    }, 
+    {
+        "name": "1 - investment (via holding company)", 
+        "parent": 37, 
+        "id": 353
+    }, 
+    {
+        "name": "7 - telecommunications", 
+        "parent": 37, 
+        "id": 354
+    }, 
+    {
+        "name": "1 - roofing", 
+        "parent": 37, 
+        "id": 355
+    }, 
+    {
+        "name": "7 - publishing", 
+        "parent": 37, 
+        "id": 356
+    }, 
+    {
+        "name": "8 - beer", 
+        "parent": 37, 
+        "id": 357
+    }, 
+    {
+        "name": "2 - commodity trading", 
+        "parent": 37, 
+        "id": 358
+    }, 
+    {
+        "name": "3 - energy, retail, manufacturing", 
+        "parent": 37, 
+        "id": 359
+    }, 
+    {
+        "name": "1 - telecom, finance", 
+        "parent": 37, 
+        "id": 360
+    }, 
+    {
+        "name": "2 - sewage treatment", 
+        "parent": 37, 
+        "id": 361
+    }, 
+    {
+        "name": "1 - confectionary", 
+        "parent": 37, 
+        "id": 362
+    }, 
+    {
+        "name": "1 - steel ", 
+        "parent": 37, 
+        "id": 363
+    }, 
+    {
+        "name": "5 - gas", 
+        "parent": 37, 
+        "id": 364
+    }, 
+    {
+        "name": "1 - catering", 
+        "parent": 37, 
+        "id": 365
+    }, 
+    {
+        "name": "1 - laptops", 
+        "parent": 37, 
+        "id": 366
+    }, 
+    {
+        "name": "7 - metals", 
+        "parent": 37, 
+        "id": 367
+    }, 
+    {
+        "name": "1 - aviation", 
+        "parent": 37, 
+        "id": 368
+    }, 
+    {
+        "name": "1 - sports team", 
+        "parent": 37, 
+        "id": 369
+    }, 
+    {
+        "name": "2 - art dealing", 
+        "parent": 37, 
+        "id": 370
+    }, 
+    {
+        "name": "1 - construction/insurance", 
+        "parent": 37, 
+        "id": 371
+    }, 
+    {
+        "name": "1 - mortgage banking", 
+        "parent": 37, 
+        "id": 372
+    }, 
+    {
+        "name": "1 - tobacco/luxury brands", 
+        "parent": 37, 
+        "id": 373
+    }, 
+    {
+        "name": "2 - biotech", 
+        "parent": 37, 
+        "id": 374
+    }, 
+    {
+        "name": "1 - insurancei, power", 
+        "parent": 37, 
+        "id": 375
+    }, 
+    {
+        "name": "1 - utilities/financial services", 
+        "parent": 37, 
+        "id": 376
+    }, 
+    {
+        "name": "4 - shopping centers", 
+        "parent": 37, 
+        "id": 377
+    }, 
+    {
+        "name": "1 - IT Consulting", 
+        "parent": 37, 
+        "id": 378
+    }, 
+    {
+        "name": "1 - gas pipeline", 
+        "parent": 37, 
+        "id": 379
+    }, 
+    {
+        "name": "50 - media", 
+        "parent": 37, 
+        "id": 380
+    }, 
+    {
+        "name": "2 - GPS technology", 
+        "parent": 37, 
+        "id": 381
+    }, 
+    {
+        "name": "1 - hospitality and food service", 
+        "parent": 37, 
+        "id": 382
+    }, 
+    {
+        "name": "1 - airport maintenance", 
+        "parent": 37, 
+        "id": 383
+    }, 
+    {
+        "name": "1 - mobile app", 
+        "parent": 37, 
+        "id": 384
+    }, 
+    {
+        "name": "40 - oil", 
+        "parent": 37, 
+        "id": 385
+    }, 
+    {
+        "name": "1 - oil/investments", 
+        "parent": 37, 
+        "id": 386
+    }, 
+    {
+        "name": "1 - rental cars", 
+        "parent": 37, 
+        "id": 387
+    }, 
+    {
+        "name": "6 - cement", 
+        "parent": 37, 
+        "id": 388
+    }, 
+    {
+        "name": "3 - medical devices", 
+        "parent": 37, 
+        "id": 389
+    }, 
+    {
+        "name": "1 - lumber, real estate", 
+        "parent": 37, 
+        "id": 390
+    }, 
+    {
+        "name": "1 - precious metals", 
+        "parent": 37, 
+        "id": 391
+    }, 
+    {
+        "name": "1 - real estate/sports teams", 
+        "parent": 37, 
+        "id": 392
+    }, 
+    {
+        "name": "1 - hair care products ", 
+        "parent": 37, 
+        "id": 393
+    }, 
+    {
+        "name": "1 - construction/real estate", 
+        "parent": 37, 
+        "id": 394
+    }, 
+    {
+        "name": "1 - mortgages", 
+        "parent": 37, 
+        "id": 395
+    }, 
+    {
+        "name": "6 - investments", 
+        "parent": 37, 
+        "id": 396
+    }, 
+    {
+        "name": "3 - timber and paper", 
+        "parent": 37, 
+        "id": 397
+    }, 
+    {
+        "name": "2 - eyeglasses", 
+        "parent": 37, 
+        "id": 398
+    }, 
+    {
+        "name": "1 - sporting goods", 
+        "parent": 37, 
+        "id": 399
+    }, 
+    {
+        "name": "1 - auto components", 
+        "parent": 37, 
+        "id": 400
+    }, 
+    {
+        "name": "2 - timber", 
+        "parent": 37, 
+        "id": 401
+    }, 
+    {
+        "name": "1 - auto glass", 
+        "parent": 37, 
+        "id": 402
+    }, 
+    {
+        "name": "1 - flooring", 
+        "parent": 37, 
+        "id": 403
+    }, 
+    {
+        "name": "10 - cosmetics", 
+        "parent": 37, 
+        "id": 404
+    }, 
+    {
+        "name": "1 - flavorings", 
+        "parent": 37, 
+        "id": 405
+    }, 
+    {
+        "name": "1 - palm oil/real estate", 
+        "parent": 37, 
+        "id": 406
+    }, 
+    {
+        "name": "1 - paper products", 
+        "parent": 37, 
+        "id": 407
+    }, 
+    {
+        "name": "1 - oil refining", 
+        "parent": 37, 
+        "id": 408
+    }, 
+    {
+        "name": "1 - media, exports", 
+        "parent": 37, 
+        "id": 409
+    }, 
+    {
+        "name": "4 - furniture", 
+        "parent": 37, 
+        "id": 410
+    }, 
+    {
+        "name": "1 - Fashion", 
+        "parent": 37, 
+        "id": 411
+    }, 
+    {
+        "name": "1 - wireless products", 
+        "parent": 37, 
+        "id": 412
+    }, 
+    {
+        "name": "1 - cogeneration", 
+        "parent": 37, 
+        "id": 413
+    }, 
+    {
+        "name": "1 - polymers", 
+        "parent": 37, 
+        "id": 414
+    }, 
+    {
+        "name": "6 - candy", 
+        "parent": 37, 
+        "id": 415
+    }, 
+    {
+        "name": "4 - security", 
+        "parent": 37, 
+        "id": 416
+    }, 
+    {
+        "name": "2 - apparel retail", 
+        "parent": 37, 
+        "id": 417
+    }, 
+    {
+        "name": "1 - motorcycles", 
+        "parent": 37, 
+        "id": 418
+    }, 
+    {
+        "name": "1 - luxury fashion", 
+        "parent": 37, 
+        "id": 419
+    }, 
+    {
+        "name": "3 - elevators", 
+        "parent": 37, 
+        "id": 420
+    }, 
+    {
+        "name": "1 - heavy manufacturing", 
+        "parent": 37, 
+        "id": 421
+    }, 
+    {
+        "name": "1 - internet domain and web hosting", 
+        "parent": 37, 
+        "id": 422
+    }, 
+    {
+        "name": "2 - forestry and mining", 
+        "parent": 37, 
+        "id": 423
+    }, 
+    {
+        "name": "1 -  software", 
+        "parent": 37, 
+        "id": 424
+    }, 
+    {
+        "name": "1 - construction/real estate/banking", 
+        "parent": 37, 
+        "id": 425
+    }, 
+    {
+        "name": "1 - mettallurgy", 
+        "parent": 37, 
+        "id": 426
+    }, 
+    {
+        "name": "1 - jewelry", 
+        "parent": 37, 
+        "id": 427
+    }, 
+    {
+        "name": "2 - fashion retail", 
+        "parent": 37, 
+        "id": 428
+    }, 
+    {
+        "name": "2 - infant formula", 
+        "parent": 37, 
+        "id": 429
+    }, 
+    {
+        "name": "3 - investment mangagment", 
+        "parent": 37, 
+        "id": 430
+    }, 
+    {
+        "name": "1 - oil services", 
+        "parent": 37, 
+        "id": 431
+    }, 
+    {
+        "name": "4 -  technology", 
+        "parent": 37, 
+        "id": 432
+    }, 
+    {
+        "name": "3 - online gaming", 
+        "parent": 37, 
+        "id": 433
+    }, 
+    {
+        "name": "1 - brake systems", 
+        "parent": 37, 
+        "id": 434
+    }, 
+    {
+        "name": "1 - paper manufacturing/investment", 
+        "parent": 37, 
+        "id": 435
+    }, 
+    {
+        "name": "1 - cork", 
+        "parent": 37, 
+        "id": 436
+    }, 
+    {
+        "name": "1 - aplliances", 
+        "parent": 37, 
+        "id": 437
+    }, 
+    {
+        "name": "1 - drug stores", 
+        "parent": 37, 
+        "id": 438
+    }, 
+    {
+        "name": "1 - automobile dealers", 
+        "parent": 37, 
+        "id": 439
+    }, 
+    {
+        "name": "4 - manufacturing", 
+        "parent": 37, 
+        "id": 440
+    }, 
+    {
+        "name": "1 - travel company", 
+        "parent": 37, 
+        "id": 441
+    }, 
+    {
+        "name": "16 - shipping", 
+        "parent": 37, 
+        "id": 442
+    }, 
+    {
+        "name": "1 - seeds", 
+        "parent": 37, 
+        "id": 443
+    }, 
+    {
+        "name": "1 - airline", 
+        "parent": 37, 
+        "id": 444
+    }, 
+    {
+        "name": "2 - mining, banking", 
+        "parent": 37, 
+        "id": 445
+    }, 
+    {
+        "name": "1 - construction, utilities", 
+        "parent": 37, 
+        "id": 446
+    }, 
+    {
+        "name": "39 - software", 
+        "parent": 37, 
+        "id": 447
+    }, 
+    {
+        "name": "1 - energy (coal, oil and gas)", 
+        "parent": 37, 
+        "id": 448
+    }, 
+    {
+        "name": "2 - truck stops", 
+        "parent": 37, 
+        "id": 449
+    }, 
+    {
+        "name": "1 - measuring instruments", 
+        "parent": 37, 
+        "id": 450
+    }, 
+    {
+        "name": "1 - shipbuilding", 
+        "parent": 37, 
+        "id": 451
+    }, 
+    {
+        "name": "1 - banking/insurance", 
+        "parent": 37, 
+        "id": 452
+    }, 
+    {
+        "name": "55 - pharmaceuticals", 
+        "parent": 37, 
+        "id": 453
+    }, 
+    {
+        "name": "1 - oil, railroad, investments", 
+        "parent": 37, 
+        "id": 454
+    }, 
+    {
+        "name": "2 - self storage", 
+        "parent": 37, 
+        "id": 455
+    }, 
+    {
+        "name": "60 - construction", 
+        "parent": 37, 
+        "id": 456
+    }, 
+    {
+        "name": "1 - mobile phone batteries", 
+        "parent": 37, 
+        "id": 457
+    }, 
+    {
+        "name": "1 - Star Wars", 
+        "parent": 37, 
+        "id": 458
+    }, 
+    {
+        "name": "1 - aircraft leasing", 
+        "parent": 37, 
+        "id": 459
+    }, 
+    {
+        "name": "1 - banking/publishing", 
+        "parent": 37, 
+        "id": 460
+    }, 
+    {
+        "name": "1 - trade investment", 
+        "parent": 37, 
+        "id": 461
+    }, 
+    {
+        "name": "5 - internet companies", 
+        "parent": 37, 
+        "id": 462
+    }, 
+    {
+        "name": "1 - food production", 
+        "parent": 37, 
+        "id": 463
+    }, 
+    {
+        "name": "1 - postal service, beverages", 
+        "parent": 37, 
+        "id": 464
+    }, 
+    {
+        "name": "1 - sports equipment", 
+        "parent": 37, 
+        "id": 465
+    }, 
+    {
+        "name": "1 - HR consulting", 
+        "parent": 37, 
+        "id": 466
+    }, 
+    {
+        "name": "2 - dairy products", 
+        "parent": 37, 
+        "id": 467
+    }, 
+    {
+        "name": "1 - telecomm", 
+        "parent": 37, 
+        "id": 468
+    }, 
+    {
+        "name": "6 - fertilizers", 
+        "parent": 37, 
+        "id": 469
+    }, 
+    {
+        "name": "1 - engineering", 
+        "parent": 37, 
+        "id": 470
+    }, 
+    {
+        "name": "2 - beer and food distribution", 
+        "parent": 37, 
+        "id": 471
+    }, 
+    {
+        "name": "7 - education", 
+        "parent": 37, 
+        "id": 472
+    }, 
+    {
+        "name": "8 - hospitals", 
+        "parent": 37, 
+        "id": 473
+    }, 
+    {
+        "name": "1 - film", 
+        "parent": 37, 
+        "id": 474
+    }, 
+    {
+        "name": "1 - architectural products", 
+        "parent": 37, 
+        "id": 475
+    }, 
+    {
+        "name": "2 - retail, home appliances", 
+        "parent": 37, 
+        "id": 476
+    }, 
+    {
+        "name": "1 - oil tankers", 
+        "parent": 37, 
+        "id": 477
+    }, 
+    {
+        "name": "2 - mobile phones", 
+        "parent": 37, 
+        "id": 478
+    }, 
+    {
+        "name": "1 - internet provider", 
+        "parent": 37, 
+        "id": 479
+    }, 
+    {
+        "name": "10 - apparel", 
+        "parent": 37, 
+        "id": 480
+    }, 
+    {
+        "name": "2 - waste management", 
+        "parent": 37, 
+        "id": 481
+    }, 
+    {
+        "name": "1 - airplanes", 
+        "parent": 37, 
+        "id": 482
+    }, 
+    {
+        "name": "1 - food distribution", 
+        "parent": 37, 
+        "id": 483
+    }, 
+    {
+        "name": "1 - utilities", 
+        "parent": 37, 
+        "id": 484
+    }, 
+    {
+        "name": "1 - laboratory services", 
+        "parent": 37, 
+        "id": 485
+    }, 
+    {
+        "name": "1 - mass transit", 
+        "parent": 37, 
+        "id": 486
+    }, 
+    {
+        "name": "1 - trucking and logistics", 
+        "parent": 37, 
+        "id": 487
+    }, 
+    {
+        "name": "2 - fertilizer", 
+        "parent": 37, 
+        "id": 488
+    }, 
+    {
+        "name": "1 - rice trading, mining, infrastructure", 
+        "parent": 37, 
+        "id": 489
+    }, 
+    {
+        "name": "2 - private investment company", 
+        "parent": 37, 
+        "id": 490
+    }, 
+    {
+        "name": "1 - processing machinary", 
+        "parent": 37, 
+        "id": 491
+    }, 
+    {
+        "name": "1 - cloud computing", 
+        "parent": 37, 
+        "id": 492
+    }, 
+    {
+        "name": "2 - invetsments", 
+        "parent": 37, 
+        "id": 493
+    }, 
+    {
+        "name": "1 - soy sauce", 
+        "parent": 37, 
+        "id": 494
+    }, 
+    {
+        "name": "1 - automotives", 
+        "parent": 37, 
+        "id": 495
+    }, 
+    {
+        "name": "4 - palm oil", 
+        "parent": 37, 
+        "id": 496
+    }, 
+    {
+        "name": "Was Political?", 
+        "parent": 1, 
+        "id": 497
+    }, 
+    {
+        "name": "56 - TRUE", 
+        "parent": 497, 
+        "id": 498
+    }, 
+    {
+        "name": "1597 - FALSE", 
+        "parent": 497, 
+        "id": 499
+    }, 
+    {
+        "name": "Type", 
+        "parent": 1, 
+        "id": 500
+    }, 
+    {
+        "name": "467 - founder non-finance", 
+        "parent": 500, 
+        "id": 501
+    }, 
+    {
+        "name": "142 - executive", 
+        "parent": 500, 
+        "id": 502
+    }, 
+    {
+        "name": "506 - inherited", 
+        "parent": 500, 
+        "id": 503
+    }, 
+    {
+        "name": "192 - privatized and resources", 
+        "parent": 500, 
+        "id": 504
+    }, 
+    {
+        "name": "344 - self-made finance", 
+        "parent": 500, 
+        "id": 505
+    }
+]
