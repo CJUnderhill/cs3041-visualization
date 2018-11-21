@@ -54,9 +54,9 @@
         "name": "180 - female"
     }, 
     {
-        "id": 9, 
+        "id": 12, 
         "parent": 1, 
-        "name": "Gender"
+        "name": "Industry"
     }, 
     {
         "id": 13, 
@@ -145,31 +145,38 @@
     }, 
     {
         "id": 30, 
-        "parent": 29
+        "parent": 29, 
+        "name": "470 - Europe"
     }, 
     {
         "id": 31, 
-        "parent": 29
+        "parent": 29, 
+        "name": "351 - East Asia"
     }, 
     {
         "id": 32, 
-        "parent": 29
+        "parent": 29, 
+        "name": "562 - North America"
     }, 
     {
         "id": 33, 
-        "parent": 29
+        "parent": 29, 
+        "name": "16 - Sub-Saharan Africa"
     }, 
     {
         "id": 34, 
-        "parent": 29
+        "parent": 29, 
+        "name": "62 - South Asia"
     }, 
     {
         "id": 35, 
-        "parent": 29
+        "parent": 29, 
+        "name": "78 - Middle East/North Africa"
     }, 
     {
         "id": 36, 
-        "parent": 29
+        "parent": 29, 
+        "name": "114 - Latin America"
     }, 
     {
         "id": 37, 

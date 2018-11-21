@@ -40,7 +40,7 @@
   "data": [
     {
       "name": "tree",
-      "url": "https://raw.githubusercontent.com/CJUnderhill/cs3041-visualization/master/data/data.json",
+      "url": "data/data.json",
       "transform": [
         {
           "type": "stratify",
